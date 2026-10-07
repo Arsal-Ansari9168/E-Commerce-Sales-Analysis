@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_ID,Gender,Age,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Sales,Payment_Method,Order_Status,Rating
+ORD0001,2025-03-29,CUST1100,Female,28,Navi Mumbai,Clothing,Hoodie,2,886.99,20,1419.18,Debit Card,Delivered,4.0
+ORD0002,2025-10-04,CUST1161,Female,28,Pune,Electronics,Smartwatch,3,8858.59,25,19931.83,Net Banking,Delivered,4.0
+ORD0003,2025-12-30,CUST1055,Female,28,Navi Mumbai,Clothing,T-Shirt,4,1979.28,5,7521.26,UPI,Returned,4.0
+ORD0004,2025-11-12,CUST1014,Female,29,Pune,Electronics,Bluetooth Speaker,1,8387.48,5,7968.11,UPI,Delivered,3.0
+ORD0005,2025-03-22,CUST1050,Female,30,Nashik,Electronics,Smartwatch,4,8431.83,15,28668.22,Credit Card,Delivered,5.0
+ORD0006,2025-06-11,CUST1202,Female,20,Nashik,Clothing,Jeans,2,2116.64,5,4021.62,Cash on Delivery,Delivered,4.0
+ORD0007,2025-02-10,CUST1157,Male,35,Nagpur,Electronics,Power Bank,1,5092.05,20,4073.64,UPI,Delivered,4.0
+ORD0008,2025-06-12,CUST1289,Male,31,Nagpur,Electronics,Wireless Headphones,2,9426.37,10,16967.47,Credit Card,Delivered,3.0
+ORD0009,2025-04-09,CUST1172,Female,26,Bhiwandi,Clothing,T-Shirt,1,3227.87,15,2743.69,Debit Card,Returned,4.5
+ORD0010,2025-08-06,CUST1255,Female,29,Aurangabad,Home & Kitchen,Bedsheet,3,774.05,10,2089.94,Debit Card,Delivered,4.5
+ORD0011,2025-04-06,CUST1222,Male,31,Aurangabad,Clothing,Jeans,2,381.34,10,686.41,Net Banking,Delivered,4.5
+ORD0012,2025-10-11,CUST1066,Female,28,Nagpur,Home & Kitchen,Water Bottle,4,1298.23,10,4673.63,UPI,Delivered,
+ORD0013,2025-12-14,CUST1231,Female,31,Mumbai,Electronics,Keyboard,2,9781.49,15,16628.53,UPI,Delivered,5.0
+ORD0014,2025-05-17,CUST1165,Male,40,Thane,Electronics,Wireless Headphones,1,9943.57,10,8949.21,Credit Card,Returned,4.0
+ORD0015,2025-10-22,CUST1113,Male,33,Mumbai,Clothing,Jacket,1,1334.25,15,1134.11,UPI,Delivered,4.0
+ORD0016,2025-05-06,CUST1130,Male,30,Nashik,Electronics,Smartwatch,3,6380.27,20,15312.65,Credit Card,Delivered,3.0
+ORD0017,2025-07-17,CUST1240,Female,22,Mumbai,Beauty,Perfume,1,385.96,0,385.96,UPI,Delivered,3.5
+ORD0018,2025-12-12,CUST1147,Female,44,Navi Mumbai,Clothing,Hoodie,2,3046.75,10,5484.15,Cash on Delivery,Delivered,4.0
+ORD0019,2025-04-09,CUST1263,Female,22,Navi Mumbai,Beauty,Shampoo,1,2126.73,15,1807.72,Credit Card,Returned,3.5
+ORD0020,2025-02-06,CUST1160,Male,37,Aurangabad,Beauty,Perfume,1,1418.2,0,1418.2,UPI,Returned,4.0
+ORD0021,2025-04-23,CUST1104,Female,33,Bhiwandi,Electronics,Bluetooth Speaker,1,8903.3,15,7567.8,Debit Card,Delivered,4.0
+ORD0022,2025-07-13,CUST1163,Female,34,Nagpur,Clothing,T-Shirt,2,2423.21,5,4604.1,UPI,Returned,3.5
+ORD0023,2025-05-08,CUST1033,Female,44,Nashik,Electronics,Keyboard,2,3380.91,15,5747.55,Debit Card,Delivered,3.0
+ORD0024,2025-10-13,CUST1097,Female,23,Aurangabad,Clothing,Hoodie,1,1857.57,10,1671.81,UPI,Delivered,4.5
+ORD0025,2025-01-06,CUST1099,Female,30,Mumbai,Electronics,Power Bank,2,6340.89,10,11413.6,Net Banking,Returned,4.5
+ORD0026,2025-04-26,CUST1191,Male,32,Nagpur,Beauty,Face Wash,4,1471.36,10,5296.9,UPI,Delivered,3.0
+ORD0027,2025-12-08,CUST1151,Female,37,Aurangabad,Clothing,Jeans,4,2081.76,25,6245.28,Debit Card,Delivered,5.0
+ORD0028,2025-06-25,CUST1039,Male,48,Pune,Clothing,Jeans,1,2670.46,0,2670.46,Credit Card,Delivered,5.0
+ORD0029,2025-05-23,CUST1092,Female,25,Pune,Books,Python Programming,2,1014.39,5,1927.34,Debit Card,Delivered,5.0
+ORD0030,2025-06-19,CUST1271,Female,29,Thane,Clothing,Hoodie,1,2984.59,25,2238.44,Cash on Delivery,Delivered,4.0
+ORD0031,2025-02-16,CUST1144,Male,43,Pune,Clothing,Hoodie,2,1168.94,20,1870.3,Cash on Delivery,Delivered,5.0
+ORD0032,2025-12-12,CUST1229,Female,29,Nagpur,Home & Kitchen,Bedsheet,4,4016.89,10,14460.8,UPI,Delivered,3.5
+ORD0033,2025-09-29,CUST1189,Male,27,Navi Mumbai,Home & Kitchen,Mixer Grinder,1,1031.81,5,980.22,Net Banking,Delivered,4.5
+ORD0034,2025-10-12,CUST1220,Male,28,Aurangabad,Home & Kitchen,Bedsheet,1,1389.11,20,1111.29,UPI,Returned,3.0
+ORD0035,2025-08-10,CUST1023,Female,18,Pune,Clothing,Kurta,1,861.06,5,818.01,Net Banking,Delivered,5.0
+ORD0036,2025-11-21,CUST1004,Female,20,Navi Mumbai,Beauty,Perfume,1,1061.61,10,955.45,Credit Card,Delivered,3.0
+ORD0037,2025-04-11,CUST1268,Male,20,Mumbai,Electronics,Bluetooth Speaker,2,9750.73,5,18526.39,UPI,Cancelled,
+ORD0038,2025-09-10,CUST1242,Male,33,Aurangabad,Home & Kitchen,Bedsheet,2,1139.8,15,1937.66,UPI,Returned,3.5
+ORD0039,2025-04-24,CUST1075,Male,25,Navi Mumbai,Home & Kitchen,Water Bottle,1,4255.4,25,3191.55,Cash on Delivery,Delivered,3.5
+ORD0040,2025-06-26,CUST1099,Female,39,Nashik,Clothing,Hoodie,1,1202.51,20,962.01,Credit Card,Delivered,4.0
+ORD0041,2025-03-03,CUST1084,Female,22,Mumbai,Electronics,Power Bank,4,3396.14,20,10867.65,Net Banking,Returned,3.0
+ORD0042,2025-09-22,CUST1284,Female,38,Aurangabad,Beauty,Face Wash,2,323.02,0,646.04,Cash on Delivery,Delivered,4.0
+ORD0043,2025-05-24,CUST1057,Male,18,Nagpur,Home & Kitchen,Water Bottle,2,640.18,0,1280.36,Net Banking,Cancelled,
+ORD0044,2025-05-26,CUST1239,Female,33,Mumbai,Clothing,Jeans,4,1712.9,20,5481.28,Credit Card,Delivered,4.0
+ORD0045,2025-05-02,CUST1194,Male,26,Nagpur,Books,Python Programming,4,376.4,25,1129.2,Net Banking,Delivered,4.0
+ORD0046,2025-05-12,CUST1292,Female,33,Nashik,Electronics,Power Bank,2,4888.26,0,9776.52,Debit Card,Delivered,4.5
+ORD0047,2025-02-27,CUST1148,Female,27,Navi Mumbai,Books,SQL Guide,1,560.91,25,420.68,Net Banking,Delivered,5.0
+ORD0048,2025-11-08,CUST1117,Female,30,Pune,Books,Python Programming,2,1101.3,25,1651.95,Cash on Delivery,Delivered,5.0
+ORD0049,2025-02-16,CUST1233,Male,39,Bhiwandi,Beauty,Sunscreen,2,299.27,25,448.9,UPI,Delivered,3.5
+ORD0050,2025-08-12,CUST1272,Female,20,Bhiwandi,Home & Kitchen,Bedsheet,1,4525.56,10,4073.0,Cash on Delivery,Delivered,
+ORD0051,2025-08-08,CUST1041,Female,18,Navi Mumbai,Electronics,Power Bank,2,3834.41,15,6518.5,Debit Card,Delivered,4.0
+ORD0052,2025-08-28,CUST1046,Male,25,Nagpur,Home & Kitchen,Mixer Grinder,2,1542.86,15,2622.86,Credit Card,Cancelled,
+ORD0053,2025-12-07,CUST1282,Male,42,Mumbai,Clothing,Hoodie,1,2262.93,5,2149.78,Debit Card,Delivered,4.0
+ORD0054,2025-11-07,CUST1006,Female,26,Mumbai,Books,Web Development,1,329.39,10,296.45,Net Banking,Delivered,4.5
+ORD0055,2025-02-20,CUST1173,Male,27,Nashik,Beauty,Moisturizer,2,1477.49,20,2363.98,UPI,Returned,3.0
+ORD0056,2025-04-28,CUST1259,Male,18,Pune,Home & Kitchen,Coffee Mug,4,1919.18,5,7292.88,Cash on Delivery,Delivered,3.5
+ORD0057,2025-03-07,CUST1075,Male,20,Aurangabad,Books,R Programming,3,951.17,10,2568.16,Cash on Delivery,Cancelled,
+ORD0058,2025-11-04,CUST1249,Female,28,Mumbai,Beauty,Shampoo,3,1556.81,10,4203.39,Cash on Delivery,Delivered,5.0
+ORD0059,2025-09-19,CUST1053,Female,18,Nagpur,Clothing,Jeans,2,3059.56,20,4895.3,Debit Card,Cancelled,
+ORD0060,2025-12-26,CUST1184,Male,30,Thane,Home & Kitchen,Bedsheet,1,564.14,10,507.73,Debit Card,Returned,4.0
+ORD0061,2025-01-22,CUST1001,Male,25,Mumbai,Clothing,Jeans,1,2226.19,10,2003.57,Cash on Delivery,Delivered,4.5
+ORD0062,2025-10-09,CUST1249,Male,41,Mumbai,Electronics,Smartwatch,1,2154.86,20,1723.89,Debit Card,Delivered,3.0
+ORD0063,2025-10-30,CUST1127,Female,32,Bhiwandi,Beauty,Sunscreen,2,205.97,0,411.94,Credit Card,Delivered,5.0
+ORD0064,2025-01-03,CUST1111,Male,23,Bhiwandi,Books,Data Science Basics,3,1184.34,10,3197.72,Debit Card,Delivered,5.0
+ORD0065,2025-07-21,CUST1039,Male,22,Mumbai,Home & Kitchen,Water Bottle,3,4362.63,10,11779.1,Credit Card,Cancelled,
+ORD0066,2025-03-08,CUST1233,Male,28,Pune,Home & Kitchen,Mixer Grinder,2,4474.53,0,8949.06,Cash on Delivery,Delivered,3.5
+ORD0067,2025-10-09,CUST1226,Male,27,Navi Mumbai,Home & Kitchen,Coffee Mug,1,2877.16,15,2445.59,Debit Card,Returned,4.0
+ORD0068,2025-03-11,CUST1112,Female,24,Bhiwandi,Beauty,Sunscreen,2,2347.49,25,3521.23,Debit Card,Cancelled,
+ORD0069,2025-05-14,CUST1118,Male,34,Bhiwandi,Electronics,Wireless Headphones,1,1606.64,20,1285.31,Debit Card,Delivered,5.0
+ORD0070,2025-05-13,CUST1118,Female,30,Thane,Books,Data Science Basics,1,945.95,10,851.36,Cash on Delivery,Cancelled,
+ORD0071,2025-12-22,CUST1259,Male,28,Bhiwandi,Clothing,T-Shirt,1,1995.49,5,1895.72,Credit Card,Returned,4.0
+ORD0072,2025-03-25,CUST1101,Male,32,Mumbai,Clothing,Hoodie,2,502.8,5,955.32,UPI,Cancelled,
+ORD0073,2025-03-17,CUST1035,Male,34,Navi Mumbai,Home & Kitchen,Bedsheet,1,1874.57,20,1499.66,Cash on Delivery,Delivered,3.5
+ORD0074,2025-08-01,CUST1165,Male,24,Thane,Books,SQL Guide,3,1244.08,15,3172.4,Debit Card,Returned,4.0
+ORD0075,2025-05-05,CUST1023,Male,25,Aurangabad,Home & Kitchen,Cookware Set,1,1717.74,0,1717.74,UPI,Returned,4.0
+ORD0076,2025-02-08,CUST1198,Female,50,Thane,Electronics,Wireless Headphones,1,5123.75,25,3842.81,Debit Card,Cancelled,
+ORD0077,2025-02-07,CUST1097,Male,40,Nagpur,Clothing,Kurta,2,2840.88,0,5681.76,Debit Card,Delivered,4.5
+ORD0078,2025-12-19,CUST1118,Female,31,Nagpur,Books,R Programming,1,962.36,20,769.89,Cash on Delivery,Delivered,3.5
+ORD0079,2025-04-05,CUST1115,Male,18,Nashik,Clothing,Kurta,2,1571.32,20,2514.11,Cash on Delivery,Cancelled,
+ORD0080,2025-05-14,CUST1200,Male,27,Aurangabad,Home & Kitchen,Bedsheet,1,1859.34,25,1394.5,Credit Card,Delivered,5.0
+ORD0081,2025-12-22,CUST1133,Female,28,Nagpur,Beauty,Perfume,3,2297.26,5,6547.19,Credit Card,Delivered,4.0
+ORD0082,2025-08-02,CUST1267,Male,31,Mumbai,Books,Data Science Basics,1,336.15,20,268.92,Net Banking,Returned,3.0
+ORD0083,2025-11-05,CUST1137,Female,31,Nashik,Beauty,Perfume,1,486.72,0,486.72,UPI,Cancelled,
+ORD0084,2025-10-21,CUST1210,Male,41,Pune,Electronics,Wireless Headphones,2,1991.22,0,3982.44,Debit Card,Delivered,4.0
+ORD0085,2025-12-10,CUST1161,Male,35,Nagpur,Clothing,Jacket,1,405.11,10,364.6,Debit Card,Delivered,5.0
+ORD0086,2025-06-26,CUST1148,Female,18,Bhiwandi,Home & Kitchen,Cookware Set,1,1220.87,0,1220.87,Cash on Delivery,Delivered,3.0
+ORD0087,2025-02-01,CUST1158,Male,23,Mumbai,Home & Kitchen,Mixer Grinder,2,1638.06,25,2457.09,Net Banking,Delivered,5.0
+ORD0088,2025-04-23,CUST1114,Female,37,Bhiwandi,Clothing,Jacket,3,510.27,10,1377.73,Debit Card,Delivered,3.5
+ORD0089,2025-03-28,CUST1055,Female,18,Navi Mumbai,Electronics,Wireless Headphones,4,4478.3,10,16121.88,Credit Card,Returned,3.5
+ORD0090,2025-09-06,CUST1239,Male,23,Thane,Beauty,Face Wash,1,1468.96,10,1322.06,Debit Card,Cancelled,
+ORD0091,2025-08-11,CUST1007,Female,27,,Home & Kitchen,Coffee Mug,3,4065.51,25,9147.4,UPI,Cancelled,
+ORD0092,2025-03-23,CUST1002,Male,42,Aurangabad,Electronics,Bluetooth Speaker,1,2087.38,15,1774.27,Net Banking,Cancelled,
+ORD0093,2025-08-14,CUST1053,Female,26,Thane,Clothing,Jeans,1,2940.34,15,2499.29,Cash on Delivery,Returned,3.0
+ORD0094,2025-08-03,CUST1128,Female,41,Mumbai,Beauty,Perfume,1,522.26,25,391.7,Credit Card,Delivered,5.0
+ORD0095,2025-01-04,CUST1154,Female,24,Nagpur,Electronics,Wireless Headphones,2,6820.47,0,13640.94,Net Banking,Delivered,5.0
+ORD0096,2025-02-10,CUST1034,Male,26,Nagpur,Home & Kitchen,Water Bottle,1,288.28,20,230.62,UPI,Delivered,4.0
+ORD0097,2025-11-05,CUST1173,Male,33,Pune,Clothing,Kurta,1,960.55,25,720.41,Net Banking,Delivered,4.5
+ORD0098,2025-07-12,CUST1181,Female,40,Thane,Clothing,Jeans,1,1650.52,15,1402.94,Credit Card,Returned,4.0
+ORD0099,2025-02-24,CUST1111,Female,38,Bhiwandi,Electronics,Bluetooth Speaker,2,3962.24,0,7924.48,Net Banking,Returned,3.5
+ORD0100,2025-12-03,CUST1201,Female,46,Pune,Clothing,Jeans,2,399.79,10,719.62,Net Banking,Delivered,4.0
+ORD0101,2025-08-17,CUST1108,Female,21,Thane,Clothing,T-Shirt,2,1620.94,10,2917.69,Credit Card,Delivered,4.0
+ORD0102,2025-11-26,CUST1057,Male,54,Mumbai,Electronics,Power Bank,1,1734.88,0,1734.88,Cash on Delivery,Cancelled,
+ORD0103,2025-03-30,CUST1268,Male,43,Thane,Home & Kitchen,Bedsheet,2,3714.68,0,7429.36,Credit Card,Returned,3.0
+ORD0104,2025-03-27,CUST1250,Male,41,Bhiwandi,Electronics,Smartwatch,1,1145.52,0,1145.52,Net Banking,Delivered,4.5
+ORD0105,2025-04-13,CUST1273,Female,30,Aurangabad,Books,SQL Guide,1,1405.5,10,1264.95,Debit Card,Returned,4.0
+ORD0106,2025-12-30,CUST1039,Male,37,Navi Mumbai,Home & Kitchen,Water Bottle,2,569.38,10,1024.88,UPI,Delivered,5.0
+ORD0107,2025-02-03,CUST1251,Male,18,Nagpur,Home & Kitchen,Mixer Grinder,1,3741.71,20,2993.37,Net Banking,Delivered,3.5
+ORD0108,2025-11-14,CUST1245,Female,36,Mumbai,Clothing,Jacket,3,524.1,15,1336.46,Cash on Delivery,Cancelled,
+ORD0109,2025-05-22,CUST1158,Female,22,Nashik,Beauty,Shampoo,4,410.91,15,1397.09,Credit Card,Delivered,4.5
+ORD0110,2025-11-01,CUST1140,Male,38,Pune,Electronics,Wireless Headphones,2,3833.1,25,5749.65,Net Banking,Delivered,5.0
+ORD0111,2025-07-18,CUST1052,Female,39,Thane,Books,SQL Guide,4,985.69,25,2957.07,Cash on Delivery,Delivered,3.0
+ORD0112,2025-11-09,CUST1218,Male,33,Mumbai,Books,Web Development,3,1288.3,5,3671.65,Credit Card,Delivered,3.5
+ORD0113,2025-06-27,CUST1062,Male,56,Navi Mumbai,Books,Web Development,4,322.3,0,1289.2,Debit Card,Delivered,4.5
+ORD0114,2025-12-23,CUST1098,Male,35,Mumbai,Books,Web Development,4,529.77,0,2119.08,Debit Card,Delivered,4.0
+ORD0115,2025-08-14,CUST1124,Male,33,Bhiwandi,Electronics,Power Bank,1,10742.85,5,10205.71,Debit Card,Delivered,4.5
+ORD0116,2025-03-22,CUST1114,Female,34,Nagpur,Home & Kitchen,Coffee Mug,2,2756.49,15,4686.03,Net Banking,Cancelled,
+ORD0117,2025-12-19,CUST1059,Male,35,Navi Mumbai,Beauty,Moisturizer,1,999.96,10,899.96,UPI,Delivered,4.0
+ORD0118,2025-07-07,CUST1007,Male,37,Thane,Clothing,Hoodie,1,2531.91,15,2152.12,Net Banking,Delivered,5.0
+ORD0119,2025-09-15,CUST1206,Male,25,Nagpur,Beauty,Moisturizer,1,2221.86,5,2110.77,Cash on Delivery,Delivered,4.0
+ORD0120,2025-12-20,CUST1188,Female,37,Navi Mumbai,Electronics,Power Bank,1,7671.27,0,7671.27,Net Banking,Delivered,5.0
+ORD0121,2025-08-10,CUST1037,Male,30,Bhiwandi,Books,SQL Guide,1,1201.28,0,1201.28,Cash on Delivery,Delivered,5.0
+ORD0122,2025-07-12,CUST1022,Female,33,Navi Mumbai,Electronics,Keyboard,1,1466.56,0,1466.56,Debit Card,Delivered,5.0
+ORD0123,2025-02-02,CUST1134,Male,18,Aurangabad,Beauty,Sunscreen,1,1225.7,10,1103.13,Debit Card,Cancelled,
+ORD0124,2025-04-09,CUST1039,Male,44,Aurangabad,Electronics,Smartwatch,1,2496.0,20,1996.8,Net Banking,Delivered,3.0
+ORD0125,2025-08-24,CUST1092,Male,26,Nagpur,Home & Kitchen,Cookware Set,4,4231.75,25,12695.25,Net Banking,Delivered,3.0
+ORD0126,2025-01-15,CUST1162,Male,27,Thane,Home & Kitchen,Bedsheet,1,1516.23,10,1364.61,UPI,Delivered,3.5
+ORD0127,2025-02-19,CUST1199,Male,34,Nagpur,Home & Kitchen,Cookware Set,2,2901.2,10,5222.16,Cash on Delivery,Delivered,5.0
+ORD0128,2025-07-25,CUST1273,Female,35,Nashik,Electronics,Keyboard,2,11632.88,25,17449.32,Cash on Delivery,Delivered,5.0
+ORD0129,2025-07-28,CUST1072,Male,39,Pune,Clothing,T-Shirt,3,814.64,25,1832.94,Credit Card,Delivered,
+ORD0130,2025-09-24,CUST1214,Male,18,Navi Mumbai,Clothing,Jacket,1,2523.94,15,2145.35,UPI,Returned,3.0
+ORD0131,2025-12-19,CUST1002,Male,46,Mumbai,Electronics,Wireless Headphones,4,7151.22,25,21453.66,UPI,Delivered,3.5
+ORD0132,2025-12-25,CUST1090,Female,39,Pune,Clothing,T-Shirt,1,2938.44,25,2203.83,Credit Card,Delivered,5.0
+ORD0133,2025-07-23,CUST1264,Female,48,Pune,Books,Data Science Basics,1,459.35,10,413.42,Cash on Delivery,Delivered,3.5
+ORD0134,2025-11-10,CUST1022,Female,44,Aurangabad,Books,SQL Guide,1,855.5,15,727.18,Debit Card,Delivered,5.0
+ORD0135,2025-10-15,CUST1300,Female,20,Bhiwandi,Electronics,Keyboard,1,8966.96,5,8518.61,Credit Card,Cancelled,
+ORD0136,2025-07-21,CUST1243,Male,25,Nagpur,Home & Kitchen,Water Bottle,1,4982.4,10,4484.16,Net Banking,Delivered,4.0
+ORD0137,2025-01-04,CUST1220,Female,30,Bhiwandi,Clothing,T-Shirt,1,2989.45,25,2242.09,Cash on Delivery,Delivered,4.5
+ORD0138,2025-12-20,CUST1228,Female,36,Aurangabad,Clothing,Jeans,1,3074.5,15,2613.32,Credit Card,Delivered,4.5
+ORD0139,2025-08-13,CUST1282,Female,18,Nashik,Books,Data Science Basics,1,1490.17,25,1117.63,Credit Card,Delivered,4.5
+ORD0140,2025-11-14,CUST1111,Female,18,Navi Mumbai,Electronics,Smartwatch,2,2745.04,25,4117.56,UPI,Cancelled,
+ORD0141,2025-06-13,CUST1287,Male,39,Pune,Home & Kitchen,Mixer Grinder,1,2077.19,15,1765.61,Debit Card,Delivered,4.0
+ORD0142,2025-05-13,CUST1276,Female,18,Thane,Clothing,Jeans,2,1736.09,25,2604.13,Cash on Delivery,Delivered,3.0
+ORD0143,2025-04-30,CUST1044,Female,36,Nashik,Home & Kitchen,Cookware Set,1,2020.92,20,1616.74,Cash on Delivery,Delivered,3.0
+ORD0144,2025-10-09,CUST1285,Male,18,Aurangabad,Home & Kitchen,Cookware Set,1,1494.8,0,1494.8,Debit Card,Cancelled,
+ORD0145,2025-08-30,CUST1216,Male,48,Thane,Clothing,Hoodie,1,583.38,0,583.38,Credit Card,Delivered,4.5
+ORD0146,2025-10-21,CUST1151,Female,38,Bhiwandi,Clothing,Hoodie,4,3077.34,10,11078.42,Net Banking,Delivered,5.0
+ORD0147,2025-01-05,CUST1086,Male,36,Pune,Electronics,Smartwatch,4,2980.94,5,11327.57,UPI,Cancelled,
+ORD0148,2025-01-26,CUST1136,Male,22,Navi Mumbai,Books,Data Science Basics,3,717.87,5,2045.93,UPI,Delivered,3.0
+ORD0149,2025-12-27,CUST1090,Female,37,Nashik,Electronics,Wireless Headphones,1,8491.65,0,8491.65,Credit Card,Cancelled,
+ORD0150,2025-03-18,CUST1159,Male,19,Thane,Beauty,Face Wash,1,2192.81,20,1754.25,Cash on Delivery,Delivered,4.5
+ORD0151,2025-11-27,CUST1129,Female,38,Bhiwandi,Home & Kitchen,Cookware Set,3,3404.45,5,9702.68,UPI,Delivered,4.5
+ORD0152,2025-04-03,CUST1224,Male,37,Thane,Clothing,T-Shirt,4,1472.68,20,4712.58,Cash on Delivery,Delivered,4.0
+ORD0153,2025-10-09,CUST1117,Male,24,Pune,Electronics,Bluetooth Speaker,3,7518.97,25,16917.68,UPI,Delivered,4.5
+ORD0154,2025-02-12,CUST1021,Male,53,Thane,Clothing,Jeans,4,1985.2,15,6749.68,Net Banking,Delivered,5.0
+ORD0155,2025-02-21,CUST1027,Male,29,Aurangabad,Beauty,Face Wash,1,1705.79,15,1449.92,Cash on Delivery,Delivered,5.0
+ORD0156,2025-05-12,CUST1090,Male,36,Bhiwandi,Home & Kitchen,Coffee Mug,1,3129.6,5,2973.12,Debit Card,Delivered,4.5
+ORD0157,2025-09-20,CUST1172,Female,18,Nagpur,Electronics,Keyboard,2,2750.25,0,5500.5,Credit Card,Delivered,4.0
+ORD0158,2025-01-26,CUST1009,Male,35,Pune,Electronics,Power Bank,3,7498.21,20,17995.7,Credit Card,Returned,4.0
+ORD0159,2025-03-01,CUST1167,Female,22,Mumbai,Clothing,Jeans,1,3180.07,5,3021.07,Credit Card,Delivered,4.0
+ORD0160,2025-04-18,CUST1226,Male,20,Aurangabad,Books,Data Science Basics,1,814.71,20,651.77,Net Banking,Delivered,4.0
+ORD0161,2025-09-11,CUST1258,Female,25,Thane,Electronics,Power Bank,2,7954.28,10,14317.7,Net Banking,Cancelled,
+ORD0162,2025-10-07,CUST1188,Female,18,Thane,Home & Kitchen,Coffee Mug,4,2255.36,0,9021.44,Cash on Delivery,Delivered,4.0
+ORD0163,2025-03-14,CUST1136,Male,39,Thane,Home & Kitchen,Coffee Mug,2,4546.52,25,6819.78,UPI,Delivered,4.0
+ORD0164,2025-01-27,CUST1160,Male,18,Navi Mumbai,Home & Kitchen,Water Bottle,1,2691.49,15,2287.77,Credit Card,Cancelled,
+ORD0165,2025-10-13,CUST1116,Female,37,Bhiwandi,Home & Kitchen,Cookware Set,1,1756.8,25,1317.6,Cash on Delivery,Delivered,5.0
+ORD0166,2025-06-07,CUST1121,Male,50,Navi Mumbai,Electronics,Power Bank,4,2680.92,0,10723.68,Cash on Delivery,Delivered,
+ORD0167,2025-12-26,CUST1248,Female,25,Mumbai,Clothing,Kurta,1,3439.96,25,2579.97,UPI,Returned,4.5
+ORD0168,2025-02-07,CUST1226,Male,18,Bhiwandi,Home & Kitchen,Cookware Set,1,3193.21,0,3193.21,Cash on Delivery,Cancelled,
+ORD0169,2025-11-19,CUST1180,Female,18,Aurangabad,Clothing,Jeans,1,1393.36,20,1114.69,Credit Card,Delivered,4.0
+ORD0170,2025-09-01,CUST1012,Male,23,Mumbai,Home & Kitchen,Bedsheet,4,3974.12,25,11922.36,Credit Card,Delivered,4.5
+ORD0171,2025-03-14,CUST1163,Female,23,Thane,Home & Kitchen,Water Bottle,1,2026.99,25,1520.24,Credit Card,Delivered,5.0
+ORD0172,2025-09-10,CUST1289,Female,35,Aurangabad,Electronics,Keyboard,1,7175.37,0,7175.37,UPI,Delivered,3.0
+ORD0173,2025-01-25,CUST1079,Female,36,Nagpur,Home & Kitchen,Water Bottle,1,1724.15,0,1724.15,Cash on Delivery,Delivered,4.5
+ORD0174,2025-11-12,CUST1160,Male,40,Thane,Books,R Programming,3,639.77,15,1631.41,Credit Card,Delivered,4.5
+ORD0175,2025-06-27,CUST1253,Male,25,Navi Mumbai,Home & Kitchen,Bedsheet,2,2055.01,10,3699.02,UPI,Returned,4.0
+ORD0176,2025-09-20,CUST1080,Female,24,Nashik,Clothing,T-Shirt,1,755.2,15,641.92,UPI,Returned,5.0
+ORD0177,2025-06-27,CUST1063,Male,35,Nashik,Clothing,T-Shirt,2,1044.47,15,1775.6,Net Banking,Returned,5.0
+ORD0178,2025-05-13,CUST1183,Female,20,Bhiwandi,Clothing,Jacket,3,1625.22,20,3900.53,Debit Card,Cancelled,
+ORD0179,2025-07-10,CUST1256,Male,21,Nagpur,Clothing,Hoodie,1,2732.93,20,2186.34,Credit Card,Delivered,4.0
+ORD0180,2025-08-09,CUST1042,Male,30,Pune,Electronics,Smartwatch,2,4368.84,5,8300.8,Net Banking,Delivered,3.0
+ORD0181,2025-10-11,CUST1203,Male,34,Pune,Electronics,Wireless Headphones,1,8143.22,0,8143.22,Debit Card,Delivered,4.5
+ORD0182,2025-03-28,CUST1101,Female,29,Nagpur,Clothing,T-Shirt,2,2264.59,20,3623.34,UPI,Delivered,4.5
+ORD0183,2025-07-30,CUST1028,Male,18,Thane,Books,Python Programming,1,340.11,0,340.11,Credit Card,Delivered,4.0
+ORD0184,2025-02-18,CUST1292,Female,21,Nashik,Electronics,Smartwatch,2,936.68,0,1873.36,UPI,Delivered,
+ORD0185,2025-09-26,CUST1181,Female,23,Aurangabad,Home & Kitchen,Coffee Mug,4,2495.63,5,9483.39,Cash on Delivery,Delivered,3.5
+ORD0186,2025-11-30,CUST1124,Female,27,Mumbai,Electronics,Smartwatch,1,4522.42,0,4522.42,Credit Card,Delivered,4.0
+ORD0187,2025-08-21,CUST1018,Male,18,Nagpur,Beauty,Perfume,1,479.45,25,359.59,Net Banking,Delivered,4.0
+ORD0188,2025-01-22,CUST1285,Male,42,Pune,Beauty,Perfume,3,323.87,25,728.71,Credit Card,Delivered,3.0
+ORD0189,2025-07-08,CUST1184,Male,26,Aurangabad,Electronics,Keyboard,4,9940.97,10,35787.49,Debit Card,Returned,4.0
+ORD0190,2025-12-30,CUST1261,Male,21,Mumbai,Electronics,Keyboard,2,7890.09,5,14991.17,Cash on Delivery,Delivered,3.0
+ORD0191,2025-03-07,CUST1112,Male,38,Mumbai,Electronics,Smartwatch,1,8130.43,5,7723.91,Cash on Delivery,Delivered,4.0
+ORD0192,2025-01-14,CUST1121,Female,36,Nagpur,Clothing,Jeans,3,2735.17,15,6974.68,UPI,Delivered,5.0
+ORD0193,2025-06-03,CUST1293,Female,48,Nagpur,Home & Kitchen,Bedsheet,3,4241.46,10,11451.94,Net Banking,Returned,4.0
+ORD0194,2025-03-12,CUST1004,Male,27,Bhiwandi,Electronics,Keyboard,2,2748.91,15,4673.15,Debit Card,Delivered,5.0
+ORD0195,2025-07-07,CUST1060,Male,56,Mumbai,Electronics,Smartwatch,2,7044.78,25,10567.17,Debit Card,Delivered,5.0
+ORD0196,2025-12-22,CUST1192,Male,27,Navi Mumbai,Electronics,Power Bank,1,9128.95,25,6846.71,Net Banking,Cancelled,
+ORD0197,2025-06-10,CUST1198,Female,38,Nashik,Electronics,Wireless Headphones,1,5604.42,15,4763.76,Debit Card,Returned,4.5
+ORD0198,2025-03-02,CUST1138,Female,39,Thane,Home & Kitchen,Cookware Set,1,2042.4,5,1940.28,Net Banking,Cancelled,
+ORD0199,2025-11-16,CUST1049,Male,26,Pune,Home & Kitchen,Water Bottle,1,3548.82,20,2839.06,Net Banking,Cancelled,
+ORD0200,2025-10-07,CUST1100,Female,36,Mumbai,Home & Kitchen,Coffee Mug,4,586.89,5,2230.18,Cash on Delivery,Delivered,3.0
+ORD0201,2025-12-02,CUST1182,Male,21,Pune,Electronics,Wireless Headphones,1,9190.54,15,7811.96,UPI,Returned,3.5
+ORD0202,2025-09-07,CUST1021,Female,21,Pune,Books,R Programming,2,445.48,10,801.86,UPI,Delivered,3.5
+ORD0203,2025-06-14,CUST1021,Female,42,Nagpur,Books,Data Science Basics,1,1165.56,15,990.73,Debit Card,Returned,3.0
+ORD0204,2025-06-10,CUST1178,Male,27,Nashik,Home & Kitchen,Water Bottle,1,2913.59,10,2622.23,Credit Card,Delivered,4.5
+ORD0205,2025-03-27,CUST1177,Male,35,Pune,Electronics,Wireless Headphones,2,6614.32,20,10582.91,Credit Card,Delivered,5.0
+ORD0206,2025-04-08,CUST1144,Female,37,Thane,Clothing,Hoodie,3,751.07,0,2253.21,Net Banking,Delivered,3.5
+ORD0207,2025-02-18,CUST1032,Male,31,Nagpur,Books,R Programming,3,327.84,15,835.99,Cash on Delivery,Delivered,5.0
+ORD0208,2025-04-02,CUST1270,Male,30,Nagpur,Home & Kitchen,Cookware Set,3,3832.41,20,9197.78,UPI,Returned,4.0
+ORD0209,2025-02-11,CUST1227,Female,30,Aurangabad,Home & Kitchen,Cookware Set,4,3905.66,5,14841.51,Cash on Delivery,Delivered,3.0
+ORD0210,2025-09-25,CUST1074,Female,23,Navi Mumbai,Clothing,Jacket,1,1517.34,20,1213.87,Cash on Delivery,Delivered,4.0
+ORD0211,2025-11-12,CUST1268,Female,38,Aurangabad,Books,R Programming,4,595.55,0,2382.2,Debit Card,Delivered,3.5
+ORD0212,2025-01-08,CUST1101,Female,29,Nashik,Clothing,Jacket,3,1186.09,0,3558.27,Debit Card,Delivered,3.0
+ORD0213,2025-01-21,CUST1158,Male,36,Pune,Clothing,Jacket,2,3123.73,10,5622.71,Cash on Delivery,Cancelled,
+ORD0214,2025-05-11,CUST1196,Male,31,Nashik,Beauty,Shampoo,4,1183.23,10,4259.63,Credit Card,Cancelled,
+ORD0215,2025-03-01,CUST1213,Female,35,Pune,Electronics,Power Bank,2,11700.07,20,18720.11,Debit Card,Returned,4.0
+ORD0216,2025-06-12,CUST1180,Female,28,Mumbai,Beauty,Shampoo,2,761.98,5,1447.76,Debit Card,Returned,3.0
+ORD0217,2025-12-13,CUST1289,Female,38,Nagpur,Clothing,Jeans,4,2264.09,25,6792.27,Credit Card,Returned,5.0
+ORD0218,2025-01-01,CUST1247,Male,37,Navi Mumbai,Clothing,Kurta,3,2481.34,0,7444.02,Debit Card,Delivered,4.0
+ORD0219,2025-02-08,CUST1252,Male,36,Aurangabad,Home & Kitchen,Mixer Grinder,4,1234.54,20,3950.53,Credit Card,Delivered,3.0
+ORD0220,2025-02-07,CUST1142,Female,32,Nagpur,Home & Kitchen,Bedsheet,1,200.9,10,180.81,Debit Card,Delivered,5.0
+ORD0221,2025-04-20,CUST1275,Male,28,Nashik,Clothing,Jacket,1,1652.15,25,1239.11,Cash on Delivery,Delivered,4.0
+ORD0222,2025-04-30,CUST1164,Female,35,Mumbai,Beauty,Face Wash,4,900.93,0,3603.72,UPI,Delivered,4.0
+ORD0223,2025-07-15,CUST1068,Female,20,Navi Mumbai,Electronics,Keyboard,1,4104.3,20,3283.44,Credit Card,Returned,3.0
+ORD0224,2025-06-07,CUST1268,Male,20,Thane,Home & Kitchen,Mixer Grinder,4,4947.34,20,15831.49,Credit Card,Returned,3.0
+ORD0225,2025-11-20,CUST1035,Male,21,Pune,Home & Kitchen,Water Bottle,2,505.48,20,808.77,UPI,Cancelled,
+ORD0226,2025-11-04,CUST1093,Female,33,Navi Mumbai,Electronics,Keyboard,3,10990.65,0,32971.95,Net Banking,Delivered,3.5
+ORD0227,2025-03-17,CUST1067,Female,22,Nashik,Home & Kitchen,Cookware Set,1,3986.25,15,3388.31,Credit Card,Delivered,5.0
+ORD0228,2025-06-02,CUST1210,Male,34,Nagpur,Electronics,Bluetooth Speaker,1,9102.61,25,6826.96,Cash on Delivery,Returned,5.0
+ORD0229,2025-12-06,CUST1177,Male,18,Nagpur,Home & Kitchen,Bedsheet,2,872.12,5,1657.03,UPI,Delivered,4.5
+ORD0230,2025-07-11,CUST1106,Male,30,Bhiwandi,Electronics,Bluetooth Speaker,1,10236.35,5,9724.53,UPI,Cancelled,
+ORD0231,2025-07-11,CUST1267,Female,32,Thane,Clothing,Hoodie,1,1210.6,20,968.48,Debit Card,Delivered,5.0
+ORD0232,2025-04-19,CUST1268,Male,18,Navi Mumbai,Electronics,Power Bank,2,5158.71,10,9285.68,UPI,Delivered,4.5
+ORD0233,2025-06-10,CUST1127,Female,27,Pune,Books,R Programming,1,1276.5,10,1148.85,Net Banking,Delivered,5.0
+ORD0234,2025-08-31,CUST1143,Male,36,Aurangabad,Electronics,Keyboard,1,6910.3,0,6910.3,Credit Card,Delivered,3.5
+ORD0235,2025-07-20,CUST1039,Female,31,Thane,Home & Kitchen,Mixer Grinder,1,3302.96,10,2972.66,,Delivered,5.0
+ORD0236,2025-03-22,CUST1268,Male,56,Thane,Home & Kitchen,Water Bottle,3,4531.78,10,12235.81,UPI,Returned,3.5
+ORD0237,2025-10-11,CUST1277,Female,29,Thane,Electronics,Smartwatch,3,10984.52,0,32953.56,Credit Card,Delivered,5.0
+ORD0238,2025-07-07,CUST1288,Male,18,Thane,Clothing,Hoodie,2,1181.22,25,1771.83,Cash on Delivery,Delivered,5.0
+ORD0239,2025-06-16,CUST1290,Female,28,Nashik,Home & Kitchen,Mixer Grinder,1,2268.73,5,2155.29,Net Banking,Delivered,3.0
+ORD0240,2025-07-21,CUST1126,Male,30,Mumbai,Home & Kitchen,Water Bottle,1,4472.47,15,3801.6,UPI,Delivered,4.5
+ORD0241,2025-11-21,CUST1067,Male,21,Nagpur,Home & Kitchen,Water Bottle,2,2749.21,15,4673.66,Cash on Delivery,Delivered,4.5
+ORD0242,2025-11-11,CUST1125,Male,32,Nagpur,Electronics,Bluetooth Speaker,1,5084.25,10,4575.82,Credit Card,Delivered,5.0
+ORD0243,2025-07-20,CUST1285,Male,18,Thane,Beauty,Sunscreen,2,1051.91,20,1683.06,Cash on Delivery,Delivered,4.0
+ORD0244,2025-12-31,CUST1042,Female,18,Navi Mumbai,Electronics,Keyboard,1,11775.23,0,11775.23,Net Banking,Cancelled,
+ORD0245,2025-04-02,CUST1280,Male,37,Thane,Electronics,Wireless Headphones,4,6434.14,15,21876.08,Net Banking,Delivered,4.0
+ORD0246,2025-12-04,CUST1104,Female,25,Mumbai,Home & Kitchen,Bedsheet,2,1195.08,0,2390.16,Credit Card,Delivered,4.0
+ORD0247,2025-12-20,CUST1267,Female,36,Nagpur,Clothing,Hoodie,2,773.55,0,1547.1,Cash on Delivery,Delivered,4.5
+ORD0248,2025-02-15,CUST1012,Female,33,Mumbai,Electronics,Bluetooth Speaker,2,6907.34,0,13814.68,Debit Card,Delivered,3.0
+ORD0249,2025-07-22,CUST1192,Male,63,,Clothing,Kurta,3,1846.9,5,5263.67,Credit Card,Returned,5.0
+ORD0250,2025-08-27,CUST1260,Male,18,Nagpur,Home & Kitchen,Water Bottle,1,4907.55,15,4171.42,Debit Card,Delivered,
+ORD0251,2025-10-21,CUST1013,Male,18,Bhiwandi,Electronics,Wireless Headphones,2,1372.03,0,2744.06,Net Banking,Delivered,5.0
+ORD0252,2025-02-23,CUST1298,Female,40,Bhiwandi,Beauty,Shampoo,2,1296.74,25,1945.11,Net Banking,Delivered,4.0
+ORD0253,2025-10-19,CUST1025,Male,25,Mumbai,Clothing,Jeans,1,1366.9,25,1025.18,Net Banking,Delivered,3.0
+ORD0254,2025-07-13,CUST1191,Female,39,Aurangabad,Electronics,Power Bank,1,9987.77,0,9987.77,UPI,Delivered,4.0
+ORD0255,2025-06-22,CUST1290,Male,23,Nagpur,Home & Kitchen,Cookware Set,3,2154.11,10,5816.1,Debit Card,Delivered,4.5
+ORD0256,2025-05-24,CUST1188,Female,27,Pune,Clothing,Jeans,4,545.96,5,2074.65,Credit Card,Delivered,4.0
+ORD0257,2025-08-19,CUST1053,Male,26,Mumbai,Clothing,Kurta,1,3062.88,25,2297.16,UPI,Returned,4.5
+ORD0258,2025-10-08,CUST1214,Male,24,Mumbai,Home & Kitchen,Water Bottle,1,361.61,20,289.29,Credit Card,Delivered,3.0
+ORD0259,2025-01-22,CUST1030,Male,18,Nashik,Home & Kitchen,Cookware Set,1,3258.04,25,2443.53,Net Banking,Cancelled,
+ORD0260,2025-09-05,CUST1127,Male,28,Mumbai,Beauty,Shampoo,4,1123.32,25,3369.96,Cash on Delivery,Delivered,3.5
+ORD0261,2025-11-21,CUST1157,Female,27,Thane,Clothing,T-Shirt,1,300.43,20,240.34,UPI,Delivered,3.0
+ORD0262,2025-12-04,CUST1141,Male,32,Mumbai,Clothing,Jacket,1,2107.95,15,1791.76,Cash on Delivery,Delivered,
+ORD0263,2025-01-23,CUST1213,Male,46,Thane,Home & Kitchen,Mixer Grinder,1,3497.69,20,2798.15,Net Banking,Delivered,5.0
+ORD0264,2025-01-21,CUST1211,Female,18,Nagpur,Electronics,Keyboard,2,2164.49,0,4328.98,Credit Card,Returned,3.0
+ORD0265,2025-01-13,CUST1210,Male,43,Nagpur,Electronics,Keyboard,1,10483.77,5,9959.58,Cash on Delivery,Delivered,4.0
+ORD0266,2025-04-10,CUST1109,Male,37,Nagpur,Beauty,Face Wash,1,1711.91,25,1283.93,Net Banking,Returned,3.0
+ORD0267,2025-03-06,CUST1021,Female,19,Thane,Clothing,Kurta,2,2663.51,25,3995.27,Debit Card,Returned,5.0
+ORD0268,2025-02-22,CUST1074,Female,47,Nagpur,Home & Kitchen,Mixer Grinder,1,735.26,20,588.21,Net Banking,Delivered,5.0
+ORD0269,2025-09-25,CUST1182,Female,28,Navi Mumbai,Beauty,Shampoo,2,244.45,25,366.67,Net Banking,Returned,3.0
+ORD0270,2025-04-29,CUST1156,Female,18,Aurangabad,Clothing,Kurta,1,433.3,25,324.98,UPI,Delivered,4.0
+ORD0271,2025-05-14,CUST1224,Male,29,Mumbai,Clothing,Jeans,3,3042.81,20,7302.74,UPI,Delivered,3.5
+ORD0272,2025-05-15,CUST1228,Male,24,Thane,Books,R Programming,2,1052.32,10,1894.18,UPI,Cancelled,
+ORD0273,2025-07-24,CUST1079,Female,34,Aurangabad,Home & Kitchen,Mixer Grinder,2,3109.5,25,4664.25,Cash on Delivery,Delivered,4.0
+ORD0274,2025-11-27,CUST1143,Female,32,Nashik,Electronics,Smartwatch,4,11889.36,20,38045.95,UPI,Delivered,3.5
+ORD0275,2025-09-24,CUST1181,Female,43,Navi Mumbai,Electronics,Smartwatch,1,2912.91,0,2912.91,Cash on Delivery,Cancelled,
+ORD0276,2025-08-04,CUST1188,Male,36,Aurangabad,Clothing,Kurta,1,2357.02,0,2357.02,UPI,Delivered,5.0
+ORD0277,2025-08-14,CUST1015,Female,22,Nagpur,Home & Kitchen,Coffee Mug,2,907.05,15,1541.98,Credit Card,Returned,3.0
+ORD0278,2025-03-19,CUST1202,Female,51,Nagpur,Home & Kitchen,Water Bottle,3,3180.36,25,7155.81,Debit Card,Returned,3.5
+ORD0279,2025-02-19,CUST1011,Male,22,Nashik,Electronics,Power Bank,2,6139.07,10,11050.33,Cash on Delivery,Delivered,4.5
+ORD0280,2025-11-28,CUST1139,Male,35,Mumbai,Beauty,Perfume,1,2388.29,5,2268.88,Credit Card,Returned,3.0
+ORD0281,2025-01-08,CUST1094,Male,35,Thane,Home & Kitchen,Coffee Mug,2,4909.65,15,8346.4,UPI,Cancelled,
+ORD0282,2025-03-15,CUST1036,Male,31,Nashik,Electronics,Smartwatch,3,9419.38,15,24019.42,Cash on Delivery,Delivered,4.5
+ORD0283,2025-04-11,CUST1155,Male,31,Nagpur,Electronics,Bluetooth Speaker,1,1220.44,15,1037.37,Debit Card,Delivered,5.0
+ORD0284,2025-05-09,CUST1160,Male,18,Nagpur,Beauty,Sunscreen,1,472.56,25,354.42,UPI,Delivered,3.5
+ORD0285,2025-10-01,CUST1173,Female,32,Nagpur,Home & Kitchen,Cookware Set,1,3820.47,10,3438.42,Cash on Delivery,Returned,3.0
+ORD0286,2025-12-31,CUST1116,Male,36,Pune,Home & Kitchen,Coffee Mug,1,3351.83,0,3351.83,Debit Card,Delivered,3.5
+ORD0287,2025-03-09,CUST1197,Female,35,Thane,Electronics,Wireless Headphones,1,3284.25,0,3284.25,Debit Card,Delivered,4.5
+ORD0288,2025-10-30,CUST1154,Female,22,Nagpur,Clothing,Kurta,1,2728.08,20,2182.46,Net Banking,Delivered,5.0
+ORD0289,2025-02-15,CUST1271,Male,24,Nagpur,Books,Data Science Basics,1,1361.11,15,1156.94,UPI,Delivered,5.0
+ORD0290,2025-01-24,CUST1024,Female,23,Nashik,Clothing,Jacket,2,2974.64,15,5056.89,Debit Card,Delivered,4.5
+ORD0291,2025-05-18,CUST1168,Male,37,Aurangabad,Clothing,T-Shirt,2,2025.1,20,3240.16,Net Banking,Cancelled,
+ORD0292,2025-02-07,CUST1239,Male,18,Nagpur,Clothing,Jacket,3,3124.75,15,7968.11,Net Banking,Delivered,4.0
+ORD0293,2025-02-16,CUST1228,Male,22,Navi Mumbai,Clothing,Jeans,2,3167.33,0,6334.66,Net Banking,Delivered,5.0
+ORD0294,2025-06-11,CUST1255,Female,21,Mumbai,Home & Kitchen,Mixer Grinder,4,2027.31,5,7703.78,UPI,Delivered,4.0
+ORD0295,2025-12-23,CUST1102,Male,32,Mumbai,Beauty,Shampoo,1,1308.3,15,1112.05,UPI,Delivered,4.5
+ORD0296,2025-06-16,CUST1126,Male,35,Mumbai,Electronics,Wireless Headphones,1,11242.05,10,10117.84,Credit Card,Returned,3.0
+ORD0297,2025-02-18,CUST1076,Female,21,Aurangabad,Books,Web Development,3,427.71,25,962.35,Net Banking,Delivered,5.0
+ORD0298,2025-12-05,CUST1043,Female,35,Thane,Beauty,Face Wash,1,917.56,15,779.93,Credit Card,Delivered,3.5
+ORD0299,2025-06-17,CUST1193,Male,49,Thane,Home & Kitchen,Coffee Mug,2,2300.77,10,4141.39,Net Banking,Delivered,3.0
+ORD0300,2025-05-28,CUST1095,Female,31,Nashik,Beauty,Moisturizer,1,2390.67,10,2151.6,Credit Card,Delivered,3.0
+ORD0301,2025-07-29,CUST1124,Male,42,Mumbai,Beauty,Moisturizer,4,1353.49,25,4060.47,Cash on Delivery,Delivered,4.0
+ORD0302,2025-01-05,CUST1057,Female,50,Bhiwandi,Clothing,Jacket,2,912.57,0,1825.14,Net Banking,Returned,3.0
+ORD0303,2025-02-16,CUST1167,Female,19,Mumbai,Electronics,Bluetooth Speaker,1,4721.16,0,4721.16,Net Banking,Delivered,5.0
+ORD0304,2025-11-15,CUST1202,Male,43,Mumbai,Books,SQL Guide,2,1231.59,15,2093.7,Credit Card,Cancelled,
+ORD0305,2025-08-07,CUST1177,Female,28,Aurangabad,Clothing,Jeans,3,873.97,5,2490.81,Debit Card,Cancelled,
+ORD0306,2025-01-22,CUST1154,Male,21,Aurangabad,Home & Kitchen,Coffee Mug,1,2518.59,15,2140.8,Debit Card,Delivered,5.0
+ORD0307,2025-11-05,CUST1290,Female,47,Thane,Electronics,Keyboard,3,4059.39,15,10351.44,Debit Card,Delivered,5.0
+ORD0308,2025-02-28,CUST1258,Male,44,Nashik,Home & Kitchen,Mixer Grinder,3,3425.87,0,10277.61,UPI,Delivered,4.0
+ORD0309,2025-12-22,CUST1098,Female,36,Mumbai,Electronics,Wireless Headphones,4,2449.56,10,8818.42,Net Banking,Delivered,5.0
+ORD0310,2025-03-24,CUST1138,Female,34,Mumbai,Clothing,T-Shirt,4,1533.96,0,6135.84,Net Banking,Delivered,4.0
+ORD0311,2025-09-28,CUST1132,Male,38,Thane,Home & Kitchen,Mixer Grinder,1,2590.59,25,1942.94,UPI,Cancelled,
+ORD0312,2025-06-19,CUST1212,Male,27,Navi Mumbai,Clothing,Jacket,1,2186.25,10,1967.62,UPI,Delivered,3.0
+ORD0313,2025-03-02,CUST1161,Male,24,Navi Mumbai,Books,R Programming,4,267.18,0,1068.72,Credit Card,Delivered,4.0
+ORD0314,2025-11-15,CUST1077,Female,22,Bhiwandi,Clothing,Jeans,4,3131.89,10,11274.8,Debit Card,Delivered,4.0
+ORD0315,2025-04-17,CUST1295,Male,40,Nashik,Home & Kitchen,Mixer Grinder,1,1416.11,25,1062.08,Cash on Delivery,Delivered,3.0
+ORD0316,2025-02-27,CUST1123,Female,23,Bhiwandi,Beauty,Sunscreen,1,1732.87,20,1386.3,Credit Card,Delivered,4.5
+ORD0317,2025-07-04,CUST1205,Female,31,Bhiwandi,Clothing,Jeans,2,2377.83,15,4042.31,Net Banking,Delivered,3.5
+ORD0318,2025-08-30,CUST1121,Male,18,Bhiwandi,Clothing,Kurta,1,972.09,10,874.88,Net Banking,Returned,5.0
+ORD0319,2025-10-18,CUST1069,Male,39,Nashik,Electronics,Power Bank,2,9587.7,20,15340.32,Cash on Delivery,Delivered,4.0
+ORD0320,2025-12-10,CUST1153,Male,40,Aurangabad,Electronics,Smartwatch,2,6751.76,20,10802.82,Net Banking,Delivered,4.0
+ORD0321,2025-04-19,CUST1035,Male,37,Bhiwandi,Clothing,Jeans,1,1495.26,0,1495.26,UPI,Returned,4.0
+ORD0322,2025-08-02,CUST1285,Male,28,Nagpur,Beauty,Shampoo,2,2234.07,10,4021.33,Net Banking,Returned,3.0
+ORD0323,2025-05-30,CUST1246,Male,40,Bhiwandi,Home & Kitchen,Cookware Set,4,1302.07,20,4166.62,UPI,Delivered,5.0
+ORD0324,2025-06-11,CUST1201,Female,40,,Clothing,Jeans,1,3121.32,5,2965.25,Debit Card,Delivered,4.0
+ORD0325,2025-10-16,CUST1019,Male,33,Pune,Electronics,Bluetooth Speaker,3,4493.11,15,11457.43,Credit Card,Delivered,5.0
+ORD0326,2025-04-03,CUST1239,Male,31,Navi Mumbai,Electronics,Smartwatch,2,4401.34,25,6602.01,UPI,Delivered,3.5
+ORD0327,2025-01-07,CUST1103,Male,26,Mumbai,Clothing,Hoodie,1,1379.06,0,1379.06,UPI,Delivered,4.0
+ORD0328,2025-10-09,CUST1144,Male,18,Bhiwandi,Home & Kitchen,Bedsheet,2,531.42,10,956.56,Cash on Delivery,Cancelled,
+ORD0329,2025-07-25,CUST1147,Female,18,Mumbai,Home & Kitchen,Mixer Grinder,3,2432.27,0,7296.81,Net Banking,Delivered,5.0
+ORD0330,2025-02-17,CUST1194,Female,29,Navi Mumbai,Clothing,Jacket,3,542.24,0,1626.72,Cash on Delivery,Delivered,4.0
+ORD0331,2025-12-01,CUST1020,Female,30,Nagpur,Electronics,Keyboard,2,10281.59,0,20563.18,Debit Card,Cancelled,
+ORD0332,2025-03-03,CUST1132,Male,34,Nashik,Electronics,Bluetooth Speaker,3,3187.26,25,7171.34,Cash on Delivery,Delivered,5.0
+ORD0333,2025-06-08,CUST1124,Female,34,Nagpur,Electronics,Bluetooth Speaker,3,11200.96,10,30242.59,UPI,Delivered,4.0
+ORD0334,2025-11-10,CUST1209,Male,34,Nagpur,Home & Kitchen,Mixer Grinder,2,3001.83,20,4802.93,Debit Card,Returned,5.0
+ORD0335,2025-08-03,CUST1277,Female,19,Pune,Home & Kitchen,Water Bottle,2,2055.78,0,4111.56,Cash on Delivery,Delivered,3.0
+ORD0336,2025-09-26,CUST1267,Female,18,Navi Mumbai,Beauty,Sunscreen,1,1654.5,15,1406.32,Debit Card,Delivered,4.5
+ORD0337,2025-01-02,CUST1178,Female,31,Thane,Electronics,Power Bank,3,3128.51,25,7039.15,Credit Card,Delivered,3.5
+ORD0338,2025-08-10,CUST1061,Male,40,Bhiwandi,Clothing,T-Shirt,3,1170.23,0,3510.69,Net Banking,Delivered,5.0
+ORD0339,2025-07-26,CUST1279,Male,18,Bhiwandi,Books,Web Development,2,1118.3,10,2012.94,Cash on Delivery,Cancelled,
+ORD0340,2025-01-22,CUST1070,Male,37,Nagpur,Books,R Programming,2,710.43,0,1420.86,Debit Card,Cancelled,
+ORD0341,2025-04-14,CUST1077,Female,18,Pune,Books,R Programming,1,298.72,25,224.04,Credit Card,Cancelled,
+ORD0342,2025-10-26,CUST1287,Male,27,Navi Mumbai,Books,Python Programming,3,970.88,10,2621.38,Net Banking,Delivered,4.0
+ORD0343,2025-10-31,CUST1291,Female,32,Bhiwandi,Beauty,Sunscreen,4,1271.4,20,4068.48,Credit Card,Delivered,4.0
+ORD0344,2025-01-03,CUST1208,Male,30,Nagpur,Home & Kitchen,Cookware Set,4,386.9,10,1392.84,Net Banking,Delivered,4.0
+ORD0345,2025-10-03,CUST1048,Male,48,Aurangabad,Home & Kitchen,Mixer Grinder,2,532.78,10,959.0,Debit Card,Delivered,3.0
+ORD0346,2025-09-25,CUST1050,Female,26,Bhiwandi,Beauty,Perfume,1,1413.66,20,1130.93,UPI,Delivered,4.5
+ORD0347,2025-03-16,CUST1277,Female,42,Nagpur,Clothing,T-Shirt,1,1912.81,20,1530.25,UPI,Delivered,5.0
+ORD0348,2025-03-05,CUST1260,Male,42,Aurangabad,Home & Kitchen,Mixer Grinder,1,3313.47,25,2485.1,Cash on Delivery,Delivered,3.0
+ORD0349,2025-09-25,CUST1296,Female,36,Nashik,Electronics,Smartwatch,2,8245.69,25,12368.54,Debit Card,Delivered,5.0
+ORD0350,2025-08-18,CUST1292,Female,44,Pune,Home & Kitchen,Coffee Mug,2,2129.06,5,4045.21,Debit Card,Cancelled,
+ORD0351,2025-05-24,CUST1235,Male,32,Navi Mumbai,Home & Kitchen,Bedsheet,2,449.55,5,854.14,Net Banking,Delivered,5.0
+ORD0352,2025-07-31,CUST1293,Female,23,Mumbai,Beauty,Moisturizer,4,1896.08,0,7584.32,UPI,Delivered,4.0
+ORD0353,2025-01-11,CUST1098,Female,34,Aurangabad,Clothing,Hoodie,2,499.66,15,849.42,Cash on Delivery,Returned,4.5
+ORD0354,2025-03-25,CUST1293,Female,34,Mumbai,Electronics,Bluetooth Speaker,3,6000.91,5,17102.59,Cash on Delivery,Delivered,5.0
+ORD0355,2025-04-11,CUST1282,Female,18,Nashik,Electronics,Bluetooth Speaker,2,4386.67,25,6580.0,Credit Card,Cancelled,
+ORD0356,2025-07-11,CUST1266,Female,18,Navi Mumbai,Clothing,Jeans,1,2953.81,15,2510.74,Debit Card,Returned,5.0
+ORD0357,2025-04-16,CUST1181,Female,18,Pune,Electronics,Keyboard,1,6212.53,0,6212.53,UPI,Delivered,5.0
+ORD0358,2025-04-16,CUST1271,Male,27,Aurangabad,Electronics,Wireless Headphones,1,7189.45,15,6111.03,Net Banking,Delivered,5.0
+ORD0359,2025-11-28,CUST1038,Male,18,Nashik,Beauty,Face Wash,1,2362.96,10,2126.66,UPI,Delivered,5.0
+ORD0360,2025-08-12,CUST1229,Female,50,Thane,Beauty,Shampoo,4,483.43,15,1643.66,Net Banking,Delivered,
+ORD0361,2025-02-22,CUST1222,Male,22,Nashik,Home & Kitchen,Coffee Mug,3,4374.11,15,11153.98,Debit Card,Returned,4.0
+ORD0362,2025-01-06,CUST1206,Female,40,Thane,Electronics,Smartwatch,2,10906.06,25,16359.09,Credit Card,Returned,3.0
+ORD0363,2025-10-14,CUST1254,Male,25,Pune,Clothing,Jacket,1,1379.94,20,1103.95,Cash on Delivery,Delivered,5.0
+ORD0364,2025-10-03,CUST1205,Male,35,Bhiwandi,Electronics,Keyboard,4,707.38,5,2688.04,Cash on Delivery,Delivered,3.0
+ORD0365,2025-08-17,CUST1156,Male,38,Nagpur,Clothing,Hoodie,1,600.08,5,570.08,Credit Card,Delivered,4.5
+ORD0366,2025-04-04,CUST1269,Male,32,Nagpur,Books,Python Programming,2,1130.1,5,2147.19,Net Banking,Cancelled,
+ORD0367,2025-06-29,CUST1137,Female,46,Aurangabad,Electronics,Wireless Headphones,2,6469.56,0,12939.12,UPI,Cancelled,
+ORD0368,2025-03-13,CUST1155,Female,29,Nashik,Books,SQL Guide,1,811.3,15,689.6,UPI,Delivered,4.5
+ORD0369,2025-08-01,CUST1056,Female,19,Bhiwandi,Home & Kitchen,Coffee Mug,1,2082.05,10,1873.85,Credit Card,Delivered,4.5
+ORD0370,2025-05-19,CUST1149,Male,37,Pune,Clothing,Hoodie,3,2945.95,0,8837.85,Debit Card,Delivered,4.0
+ORD0371,2025-09-01,CUST1068,Female,39,Pune,Home & Kitchen,Bedsheet,1,3135.03,25,2351.27,UPI,Cancelled,
+ORD0372,2025-09-04,CUST1188,Female,18,Thane,Clothing,Jeans,1,1757.98,0,1757.98,Credit Card,Delivered,4.0
+ORD0373,2025-05-17,CUST1184,Female,31,Aurangabad,Electronics,Bluetooth Speaker,1,10299.74,5,9784.75,Net Banking,Delivered,3.5
+ORD0374,2025-10-09,CUST1010,Male,33,Thane,Clothing,Jeans,3,906.06,25,2038.63,Net Banking,Delivered,3.0
+ORD0375,2025-06-11,CUST1140,Male,37,Nashik,Electronics,Bluetooth Speaker,4,1328.34,10,4782.02,UPI,Delivered,5.0
+ORD0376,2025-04-26,CUST1214,Male,19,Bhiwandi,Clothing,Jeans,1,890.82,20,712.66,Net Banking,Delivered,4.0
+ORD0377,2025-03-11,CUST1113,Male,18,Navi Mumbai,Home & Kitchen,Water Bottle,1,2565.53,25,1924.15,Cash on Delivery,Cancelled,
+ORD0378,2025-12-26,CUST1151,Female,50,Thane,Books,R Programming,2,976.77,15,1660.51,Credit Card,Delivered,5.0
+ORD0379,2025-11-07,CUST1037,Female,29,Thane,Home & Kitchen,Cookware Set,4,251.89,10,906.8,Net Banking,Cancelled,
+ORD0380,2025-01-30,CUST1267,Female,31,Nashik,Home & Kitchen,Water Bottle,1,522.72,0,522.72,Cash on Delivery,Delivered,4.0
+ORD0381,2025-04-13,CUST1223,Female,26,Nagpur,Beauty,Sunscreen,4,1506.34,20,4820.29,Credit Card,Returned,3.0
+ORD0382,2025-11-17,CUST1249,Male,18,Pune,Electronics,Keyboard,1,1007.93,25,755.95,Credit Card,Cancelled,
+ORD0383,2025-03-31,CUST1141,Male,26,Bhiwandi,Books,Python Programming,1,345.55,20,276.44,UPI,Delivered,3.0
+ORD0384,2025-11-06,CUST1283,Male,35,Mumbai,Clothing,Hoodie,3,2990.91,25,6729.55,Net Banking,Cancelled,
+ORD0385,2025-01-05,CUST1020,Female,34,Bhiwandi,Electronics,Keyboard,3,2040.67,5,5815.91,Debit Card,Delivered,5.0
+ORD0386,2025-02-13,CUST1019,Male,50,Thane,Home & Kitchen,Coffee Mug,1,1794.13,25,1345.6,Cash on Delivery,Returned,4.5
+ORD0387,2025-05-25,CUST1050,Male,42,Thane,Home & Kitchen,Bedsheet,2,1902.4,10,3424.32,Cash on Delivery,Cancelled,
+ORD0388,2025-07-27,CUST1220,Female,27,Bhiwandi,Clothing,Jeans,2,2020.91,25,3031.36,Cash on Delivery,Delivered,4.0
+ORD0389,2025-07-20,CUST1045,Female,31,Navi Mumbai,Clothing,Kurta,1,1958.48,10,1762.63,Cash on Delivery,Delivered,5.0
+ORD0390,2025-05-26,CUST1197,Male,18,Nagpur,Beauty,Shampoo,1,928.15,25,696.11,Cash on Delivery,Delivered,5.0
+ORD0391,2025-05-26,CUST1271,Female,33,Pune,Clothing,Hoodie,3,2405.78,25,5413.0,UPI,Returned,
+ORD0392,2025-10-26,CUST1096,Female,27,Aurangabad,Clothing,Kurta,1,988.65,10,889.78,Cash on Delivery,Delivered,4.0
+ORD0393,2025-09-24,CUST1251,Female,20,Thane,Electronics,Bluetooth Speaker,3,4607.61,25,10367.12,UPI,Returned,5.0
+ORD0394,2025-07-21,CUST1083,Male,29,Aurangabad,Home & Kitchen,Mixer Grinder,1,2268.72,0,2268.72,Net Banking,Delivered,5.0
+ORD0395,2025-04-04,CUST1127,Male,37,Mumbai,Clothing,T-Shirt,2,812.72,0,1625.44,Debit Card,Returned,3.5
+ORD0396,2025-08-02,CUST1173,Male,39,Aurangabad,Home & Kitchen,Coffee Mug,1,568.68,10,511.81,UPI,Cancelled,
+ORD0397,2025-12-12,CUST1144,Female,18,Mumbai,Electronics,Smartwatch,1,11169.04,5,10610.59,Cash on Delivery,Cancelled,
+ORD0398,2025-11-11,CUST1283,Male,44,Aurangabad,Clothing,Jeans,2,2182.73,15,3710.64,Cash on Delivery,Returned,3.5
+ORD0399,2025-07-27,CUST1292,Female,37,Bhiwandi,Clothing,Jacket,2,2878.08,0,5756.16,Net Banking,Cancelled,
+ORD0400,2025-05-04,CUST1293,Male,25,Thane,Home & Kitchen,Water Bottle,3,600.92,5,1712.62,Cash on Delivery,Cancelled,
+ORD0401,2025-05-28,CUST1281,Female,37,Aurangabad,Home & Kitchen,Cookware Set,1,974.56,20,779.65,Cash on Delivery,Delivered,4.5
+ORD0402,2025-02-03,CUST1141,Male,38,Bhiwandi,Clothing,Jeans,2,481.38,25,722.07,Net Banking,Cancelled,
+ORD0403,2025-08-27,CUST1148,Male,26,Navi Mumbai,Clothing,Kurta,2,3166.21,0,6332.42,Cash on Delivery,Returned,4.0
+ORD0404,2025-11-20,CUST1300,Female,18,Nagpur,Electronics,Power Bank,3,2466.38,10,6659.23,,Cancelled,
+ORD0405,2025-06-30,CUST1288,Female,41,Thane,Clothing,Kurta,3,3427.3,10,9253.71,Cash on Delivery,Delivered,5.0
+ORD0406,2025-04-17,CUST1088,Male,33,Thane,Clothing,Jeans,1,1356.91,25,1017.68,Net Banking,Cancelled,
+ORD0407,2025-04-16,CUST1280,Female,21,Nashik,Books,Data Science Basics,2,904.5,0,1809.0,Debit Card,Delivered,5.0
+ORD0408,2025-10-10,CUST1182,Female,24,Mumbai,Electronics,Smartwatch,2,8314.38,10,14965.88,Credit Card,Delivered,4.0
+ORD0409,2025-12-27,CUST1042,Male,37,Nagpur,Home & Kitchen,Cookware Set,1,1524.43,20,1219.54,Net Banking,Delivered,4.5
+ORD0410,2025-03-30,CUST1012,Female,30,Mumbai,Home & Kitchen,Cookware Set,1,3566.64,0,3566.64,Cash on Delivery,Delivered,3.5
+ORD0411,2025-06-13,CUST1159,Male,46,Bhiwandi,Electronics,Smartwatch,1,1622.07,15,1378.76,Credit Card,Delivered,4.0
+ORD0412,2025-04-20,CUST1146,Female,30,Bhiwandi,Electronics,Keyboard,2,7389.79,20,11823.66,Credit Card,Cancelled,
+ORD0413,2025-05-28,CUST1018,Female,18,Thane,Beauty,Perfume,3,546.58,15,1393.78,Net Banking,Cancelled,
+ORD0414,2025-07-25,CUST1198,Female,39,,Electronics,Bluetooth Speaker,2,11144.44,10,20059.99,UPI,Returned,5.0
+ORD0415,2025-09-18,CUST1109,Male,30,Nashik,Home & Kitchen,Water Bottle,4,1845.11,15,6273.37,Debit Card,Delivered,3.5
+ORD0416,2025-03-24,CUST1110,Female,38,Bhiwandi,Clothing,Jacket,4,300.1,10,1080.36,Net Banking,Delivered,4.0
+ORD0417,2025-11-21,CUST1219,Male,26,Navi Mumbai,Beauty,Moisturizer,2,2267.21,25,3400.82,UPI,Delivered,4.5
+ORD0418,2025-08-06,CUST1016,Male,42,Nashik,Clothing,Jacket,3,2955.11,10,7978.8,Debit Card,Cancelled,
+ORD0419,2025-06-10,CUST1131,Female,42,Thane,Books,Data Science Basics,1,845.58,0,845.58,Net Banking,Cancelled,
+ORD0420,2025-10-02,CUST1102,Male,30,Nagpur,Home & Kitchen,Cookware Set,2,2948.69,0,5897.38,Debit Card,Delivered,4.0
+ORD0421,2025-07-19,CUST1298,Female,45,Navi Mumbai,Electronics,Keyboard,2,9372.74,15,15933.66,Debit Card,Delivered,4.0
+ORD0422,2025-09-25,CUST1207,Male,30,Aurangabad,Clothing,Jacket,1,1189.1,15,1010.73,Debit Card,Delivered,5.0
+ORD0423,2025-08-08,CUST1065,Male,24,Navi Mumbai,Home & Kitchen,Bedsheet,1,4676.21,10,4208.59,Debit Card,Delivered,5.0
+ORD0424,2025-12-24,CUST1140,Male,18,Thane,Electronics,Bluetooth Speaker,2,10957.41,0,21914.82,Net Banking,Delivered,3.5
+ORD0425,2025-04-28,CUST1260,Male,38,Navi Mumbai,Clothing,Hoodie,1,1310.47,20,1048.38,UPI,Delivered,4.0
+ORD0426,2025-01-28,CUST1235,Male,41,Mumbai,Home & Kitchen,Coffee Mug,3,2178.94,0,6536.82,Credit Card,Cancelled,
+ORD0427,2025-07-27,CUST1238,Female,35,Nashik,Books,Web Development,2,674.13,25,1011.2,Net Banking,Delivered,4.0
+ORD0428,2025-09-01,CUST1087,Male,21,Pune,Beauty,Face Wash,1,1154.1,10,1038.69,UPI,Cancelled,
+ORD0429,2025-01-04,CUST1132,Male,22,Bhiwandi,Beauty,Face Wash,1,615.19,20,492.15,Credit Card,Delivered,3.5
+ORD0430,2025-09-01,CUST1123,Male,25,Thane,Electronics,Smartwatch,1,10552.62,20,8442.1,,Delivered,4.0
+ORD0431,2025-10-31,CUST1039,Male,50,Nashik,Clothing,Kurta,1,3112.06,10,2800.85,Debit Card,Delivered,5.0
+ORD0432,2025-09-10,CUST1257,Male,18,Pune,Books,R Programming,1,1285.82,5,1221.53,Credit Card,Cancelled,
+ORD0433,2025-01-30,CUST1249,Female,18,Mumbai,Beauty,Sunscreen,2,1106.51,25,1659.76,Credit Card,Returned,4.5
+ORD0434,2025-01-29,CUST1161,Male,21,Bhiwandi,Books,SQL Guide,3,677.31,20,1625.54,Net Banking,Delivered,5.0
+ORD0435,2025-07-05,CUST1095,Female,28,Thane,Clothing,Kurta,2,377.15,25,565.72,Cash on Delivery,Delivered,4.0
+ORD0436,2025-05-14,CUST1025,Male,28,Mumbai,Electronics,Keyboard,2,4690.06,25,7035.09,Net Banking,Delivered,4.0
+ORD0437,2025-07-16,CUST1042,Male,18,Navi Mumbai,Clothing,Kurta,1,1628.4,0,1628.4,Debit Card,Cancelled,
+ORD0438,2025-09-23,CUST1029,Male,33,Thane,Electronics,Smartwatch,2,1605.19,10,2889.34,Cash on Delivery,Delivered,4.0
+ORD0439,2025-02-14,CUST1136,Male,31,Navi Mumbai,Clothing,Hoodie,1,3347.73,5,3180.34,Net Banking,Cancelled,
+ORD0440,2025-01-15,CUST1102,Female,19,Mumbai,Beauty,Face Wash,2,1483.11,20,2372.98,UPI,Delivered,5.0
+ORD0441,2025-06-20,CUST1134,Male,18,Nagpur,Home & Kitchen,Mixer Grinder,3,1785.88,0,5357.64,Debit Card,Delivered,5.0
+ORD0442,2025-11-15,CUST1092,Male,32,Navi Mumbai,Electronics,Power Bank,2,1729.89,5,3286.79,Debit Card,Delivered,4.0
+ORD0443,2025-01-06,CUST1280,Female,20,Aurangabad,Books,Python Programming,2,769.3,15,1307.81,Net Banking,Delivered,4.0
+ORD0444,2025-10-28,CUST1175,Male,25,Nashik,Electronics,Wireless Headphones,1,1276.02,5,1212.22,Net Banking,Delivered,3.5
+ORD0445,2025-02-14,CUST1216,Male,42,Mumbai,Clothing,T-Shirt,1,2371.87,10,2134.68,Debit Card,Returned,5.0
+ORD0446,2025-07-06,CUST1289,Male,19,Nashik,Books,SQL Guide,4,667.74,15,2270.32,Debit Card,Delivered,4.0
+ORD0447,2025-05-06,CUST1150,Female,25,Nashik,Electronics,Wireless Headphones,1,11516.33,5,10940.51,Debit Card,Returned,4.5
+ORD0448,2025-03-06,CUST1134,Male,51,Thane,Clothing,Kurta,3,2636.56,20,6327.74,Debit Card,Delivered,4.5
+ORD0449,2025-03-29,CUST1168,Male,19,Pune,Home & Kitchen,Water Bottle,4,3050.15,0,12200.6,Credit Card,Delivered,4.5
+ORD0450,2025-10-14,CUST1021,Female,36,,Electronics,Bluetooth Speaker,1,3651.14,20,2920.91,Net Banking,Cancelled,
+ORD0451,2025-10-24,CUST1134,Male,34,Mumbai,Clothing,Kurta,2,1136.27,15,1931.66,Net Banking,Delivered,3.5
+ORD0452,2025-08-13,CUST1152,Male,56,Pune,Books,Web Development,1,648.36,10,583.52,UPI,Cancelled,
+ORD0453,2025-12-11,CUST1226,Male,30,Thane,Clothing,Hoodie,1,1111.56,15,944.83,Debit Card,Returned,4.0
+ORD0454,2025-12-02,CUST1236,Female,18,Aurangabad,Home & Kitchen,Bedsheet,1,1427.57,10,1284.81,Credit Card,Delivered,3.5
+ORD0455,2025-09-01,CUST1274,Female,36,Navi Mumbai,Clothing,Hoodie,2,2200.96,5,4181.82,Cash on Delivery,Delivered,5.0
+ORD0456,2025-07-28,CUST1272,Male,22,Thane,Clothing,Kurta,1,2378.01,20,1902.41,UPI,Delivered,3.5
+ORD0457,2025-07-10,CUST1256,Male,22,Bhiwandi,Beauty,Sunscreen,1,1498.56,5,1423.63,Net Banking,Delivered,4.0
+ORD0458,2025-02-06,CUST1074,Female,37,Navi Mumbai,Electronics,Power Bank,2,2260.82,15,3843.39,UPI,Cancelled,
+ORD0459,2025-08-11,CUST1089,Male,29,Pune,Books,Data Science Basics,2,1100.6,20,1760.96,Cash on Delivery,Delivered,4.5
+ORD0460,2025-08-08,CUST1106,Male,34,Bhiwandi,Clothing,T-Shirt,1,883.87,20,707.1,Debit Card,Delivered,5.0
+ORD0461,2025-11-14,CUST1144,Female,25,Navi Mumbai,Clothing,Jeans,2,961.06,20,1537.7,UPI,Delivered,5.0
+ORD0462,2025-12-24,CUST1100,Male,18,Bhiwandi,Clothing,T-Shirt,1,1335.94,25,1001.96,Debit Card,Delivered,4.0
+ORD0463,2025-01-07,CUST1155,Female,60,Pune,Books,SQL Guide,2,560.67,15,953.14,Cash on Delivery,Cancelled,
+ORD0464,2025-12-03,CUST1174,Female,21,Thane,Electronics,Smartwatch,2,11378.77,25,17068.16,Credit Card,Delivered,5.0
+ORD0465,2025-07-03,CUST1222,Male,30,Navi Mumbai,Electronics,Smartwatch,1,1419.64,25,1064.73,Debit Card,Cancelled,
+ORD0466,2025-07-19,CUST1196,Male,29,Thane,Beauty,Moisturizer,2,2047.46,0,4094.92,Debit Card,Cancelled,
+ORD0467,2025-06-27,CUST1063,Female,36,Nagpur,Electronics,Bluetooth Speaker,3,11542.04,15,29432.2,UPI,Delivered,4.5
+ORD0468,2025-04-09,CUST1116,Female,26,Aurangabad,Clothing,T-Shirt,2,1774.87,10,3194.77,Net Banking,Delivered,5.0
+ORD0469,2025-09-28,CUST1050,Female,40,Aurangabad,Beauty,Face Wash,2,899.76,5,1709.54,Debit Card,Returned,4.0
+ORD0470,2025-09-26,CUST1001,Female,28,Bhiwandi,Home & Kitchen,Water Bottle,2,1631.71,25,2447.56,Cash on Delivery,Delivered,3.0
+ORD0471,2025-07-28,CUST1089,Female,24,Bhiwandi,Clothing,Hoodie,3,1965.74,20,4717.78,Net Banking,Delivered,5.0
+ORD0472,2025-05-08,CUST1113,Male,29,Mumbai,Clothing,Hoodie,1,2812.2,20,2249.76,Credit Card,Delivered,3.5
+ORD0473,2025-06-14,CUST1201,Male,38,Pune,Electronics,Keyboard,1,6495.48,25,4871.61,UPI,Delivered,3.0
+ORD0474,2025-06-06,CUST1251,Female,29,Mumbai,Electronics,Bluetooth Speaker,3,11039.52,25,24838.92,Credit Card,Delivered,5.0
+ORD0475,2025-10-11,CUST1106,Male,30,Aurangabad,Home & Kitchen,Mixer Grinder,2,3586.7,15,6097.39,Cash on Delivery,Delivered,3.0
+ORD0476,2025-07-01,CUST1113,Male,30,Thane,Beauty,Shampoo,1,323.81,0,323.81,Net Banking,Cancelled,
+ORD0477,2025-09-05,CUST1146,Female,28,Aurangabad,Clothing,Jeans,1,3071.31,25,2303.48,Credit Card,Delivered,5.0
+ORD0478,2025-11-30,CUST1009,Male,46,Aurangabad,Home & Kitchen,Mixer Grinder,1,4316.15,20,3452.92,Cash on Delivery,Cancelled,
+ORD0479,2025-11-15,CUST1185,Male,23,Nashik,Beauty,Moisturizer,2,242.03,10,435.65,Debit Card,Delivered,5.0
+ORD0480,2025-02-11,CUST1098,Male,23,Aurangabad,Clothing,Hoodie,2,3102.9,25,4654.35,Credit Card,Cancelled,
+ORD0481,2025-10-18,CUST1114,Male,21,,Clothing,T-Shirt,4,1306.81,0,5227.24,Cash on Delivery,Delivered,4.0
+ORD0482,2025-01-16,CUST1061,Female,40,Navi Mumbai,Beauty,Sunscreen,1,595.32,10,535.79,Credit Card,Cancelled,
+ORD0483,2025-07-25,CUST1078,Female,24,Aurangabad,Clothing,T-Shirt,1,2976.55,0,2976.55,Debit Card,Delivered,5.0
+ORD0484,2025-10-15,CUST1129,Female,22,Aurangabad,Home & Kitchen,Coffee Mug,2,1689.48,15,2872.12,Net Banking,Returned,5.0
+ORD0485,2025-07-11,CUST1219,Male,27,Nagpur,Clothing,Jacket,2,1507.56,0,3015.12,Net Banking,Cancelled,
+ORD0486,2025-06-03,CUST1035,Male,29,Thane,Clothing,Jeans,4,647.78,25,1943.34,Net Banking,Returned,4.5
+ORD0487,2025-04-15,CUST1001,Male,36,Bhiwandi,Electronics,Wireless Headphones,4,6701.54,10,24125.54,Cash on Delivery,Delivered,5.0
+ORD0488,2025-05-06,CUST1209,Male,39,Pune,Home & Kitchen,Coffee Mug,1,912.83,25,684.62,Debit Card,Delivered,4.5
+ORD0489,2025-11-16,CUST1187,Female,47,Pune,Electronics,Smartwatch,2,7077.67,0,14155.34,Credit Card,Delivered,3.0
+ORD0490,2025-07-22,CUST1074,Male,32,Nagpur,Clothing,Jeans,4,3127.79,0,12511.16,Debit Card,Delivered,5.0
+ORD0491,2025-11-20,CUST1273,Male,30,Pune,Electronics,Wireless Headphones,3,1610.56,0,4831.68,Credit Card,Returned,3.0
+ORD0492,2025-10-01,CUST1042,Female,28,Nashik,Books,Web Development,2,804.71,5,1528.95,Net Banking,Cancelled,
+ORD0493,2025-04-17,CUST1108,Male,34,,Home & Kitchen,Mixer Grinder,1,1985.99,20,1588.79,Debit Card,Delivered,5.0
+ORD0494,2025-06-03,CUST1154,Female,29,Nashik,Clothing,Hoodie,1,3092.4,15,2628.54,UPI,Delivered,3.0
+ORD0495,2025-07-03,CUST1131,Male,18,Mumbai,Clothing,Hoodie,1,909.08,5,863.63,Credit Card,Delivered,3.0
+ORD0496,2025-07-08,CUST1129,Male,35,Mumbai,Clothing,Kurta,3,2832.11,25,6372.25,Credit Card,Returned,4.0
+ORD0497,2025-10-26,CUST1154,Female,27,Bhiwandi,Electronics,Smartwatch,4,7292.66,15,24795.04,UPI,Delivered,5.0
+ORD0498,2025-01-02,CUST1108,Female,54,Mumbai,Books,Web Development,1,725.6,15,616.76,Cash on Delivery,Delivered,4.5
+ORD0499,2025-08-22,CUST1087,Male,32,Nagpur,Beauty,Face Wash,3,1826.74,5,5206.21,UPI,Delivered,3.5
+ORD0500,2025-07-02,CUST1268,Female,51,Pune,Books,R Programming,2,1172.71,10,2110.88,Cash on Delivery,Returned,4.0
+ORD0501,2025-08-10,CUST1051,Female,27,Aurangabad,Clothing,Jacket,2,1393.25,25,2089.88,Debit Card,Delivered,5.0
+ORD0502,2025-05-23,CUST1192,Male,23,Pune,Clothing,Jacket,2,3024.5,10,5444.1,Net Banking,Cancelled,
+ORD0503,2025-09-24,CUST1106,Female,32,Nagpur,Home & Kitchen,Water Bottle,1,771.71,20,617.37,Debit Card,Cancelled,
+ORD0504,2025-01-10,CUST1122,Male,18,Mumbai,Clothing,Jeans,2,3276.53,25,4914.8,Debit Card,Delivered,3.0
+ORD0505,2025-05-01,CUST1132,Female,36,Nagpur,Clothing,Jacket,4,1843.28,15,6267.15,Debit Card,Cancelled,
+ORD0506,2025-05-20,CUST1002,Female,22,Pune,Beauty,Face Wash,3,1858.6,20,4460.64,Debit Card,Delivered,4.0
+ORD0507,2025-08-30,CUST1149,Female,29,Pune,Electronics,Keyboard,2,2932.38,15,4985.05,Cash on Delivery,Returned,5.0
+ORD0508,2025-02-13,CUST1086,Female,22,Pune,Beauty,Face Wash,3,954.13,25,2146.79,Credit Card,Returned,4.5
+ORD0509,2025-02-26,CUST1039,Female,19,Mumbai,Electronics,Bluetooth Speaker,1,9069.5,5,8616.02,Debit Card,Returned,4.5
+ORD0510,2025-04-20,CUST1180,Female,43,Navi Mumbai,Books,R Programming,2,382.7,5,727.13,Credit Card,Delivered,3.5
+ORD0511,2025-09-15,CUST1018,Male,18,Mumbai,Home & Kitchen,Bedsheet,1,4001.29,15,3401.1,Net Banking,Delivered,4.5
+ORD0512,2025-09-11,CUST1088,Female,18,Nagpur,Electronics,Bluetooth Speaker,2,10427.03,25,15640.55,Cash on Delivery,Delivered,5.0
+ORD0513,2025-11-20,CUST1042,Male,38,Pune,Electronics,Keyboard,1,11923.9,5,11327.7,Net Banking,Cancelled,
+ORD0514,2025-11-05,CUST1018,Male,58,Navi Mumbai,Clothing,Jeans,3,2724.88,0,8174.64,Net Banking,Delivered,3.5
+ORD0515,2025-04-18,CUST1156,Female,21,Nagpur,Electronics,Power Bank,1,4286.49,5,4072.17,Net Banking,Delivered,3.5
+ORD0516,2025-01-16,CUST1151,Female,31,Bhiwandi,Home & Kitchen,Coffee Mug,4,250.65,5,952.47,Cash on Delivery,Delivered,4.0
+ORD0517,2025-05-23,CUST1248,Male,21,Aurangabad,Books,Web Development,1,921.68,5,875.6,Cash on Delivery,Returned,3.5
+ORD0518,2025-01-26,CUST1151,Male,40,Nagpur,Home & Kitchen,Cookware Set,1,3830.97,15,3256.32,Net Banking,Delivered,4.0
+ORD0519,2025-11-05,CUST1300,Female,37,Pune,Electronics,Bluetooth Speaker,2,10274.14,10,18493.45,Net Banking,Delivered,5.0
+ORD0520,2025-07-01,CUST1284,Female,24,Thane,Clothing,T-Shirt,2,577.46,20,923.94,Net Banking,Returned,4.0
+ORD0521,2025-11-20,CUST1181,Male,20,Aurangabad,Beauty,Shampoo,1,1928.27,20,1542.62,UPI,Delivered,5.0
+ORD0522,2025-03-24,CUST1182,Male,45,Pune,Books,SQL Guide,1,506.0,25,379.5,Cash on Delivery,Cancelled,
+ORD0523,2025-01-09,CUST1061,Male,18,Pune,Beauty,Shampoo,2,308.08,0,616.16,Debit Card,Cancelled,
+ORD0524,2025-09-12,CUST1207,Female,25,Pune,Beauty,Face Wash,1,950.31,25,712.73,Cash on Delivery,Delivered,4.5
+ORD0525,2025-03-31,CUST1049,Female,33,Bhiwandi,Electronics,Smartwatch,4,6059.69,5,23026.82,Cash on Delivery,Returned,5.0
+ORD0526,2025-08-27,CUST1168,Female,41,Thane,Home & Kitchen,Mixer Grinder,4,3009.42,5,11435.8,Debit Card,Delivered,5.0
+ORD0527,2025-07-14,CUST1214,Male,29,Bhiwandi,Clothing,T-Shirt,1,2595.24,20,2076.19,Credit Card,Returned,4.0
+ORD0528,2025-02-13,CUST1186,Male,42,Bhiwandi,Beauty,Perfume,4,358.13,20,1146.02,Net Banking,Delivered,5.0
+ORD0529,2025-07-25,CUST1062,Female,42,Nashik,Electronics,Keyboard,2,4218.62,0,8437.24,Cash on Delivery,Returned,4.5
+ORD0530,2025-02-03,CUST1194,Male,30,Aurangabad,Books,Web Development,1,501.76,15,426.5,Credit Card,Cancelled,
+ORD0531,2025-07-12,CUST1092,Male,49,Aurangabad,Clothing,T-Shirt,2,873.32,5,1659.31,Net Banking,Delivered,4.0
+ORD0532,2025-11-04,CUST1296,Female,27,Thane,Books,Python Programming,2,277.31,5,526.89,Debit Card,Delivered,5.0
+ORD0533,2025-09-23,CUST1095,Female,43,Mumbai,Books,Python Programming,1,389.92,25,292.44,UPI,Delivered,4.0
+ORD0534,2025-07-01,CUST1025,Female,18,Nagpur,Books,SQL Guide,4,1018.84,25,3056.52,Net Banking,Delivered,4.0
+ORD0535,2025-02-09,CUST1153,Male,43,Nagpur,Home & Kitchen,Mixer Grinder,1,1539.24,0,1539.24,Net Banking,Delivered,3.0
+ORD0536,2025-03-28,CUST1201,Male,34,Nagpur,Electronics,Keyboard,1,2003.6,20,1602.88,Credit Card,Returned,4.0
+ORD0537,2025-09-03,CUST1251,Male,49,Mumbai,Beauty,Shampoo,2,2409.72,0,4819.44,Cash on Delivery,Delivered,4.5
+ORD0538,2025-08-04,CUST1285,Male,26,Nashik,Electronics,Keyboard,2,11745.26,25,17617.89,Debit Card,Delivered,4.0
+ORD0539,2025-10-06,CUST1209,Male,18,Aurangabad,Electronics,Power Bank,1,6521.39,10,5869.25,Cash on Delivery,Delivered,4.0
+ORD0540,2025-07-30,CUST1076,Female,44,Mumbai,Electronics,Keyboard,2,6171.16,10,11108.09,Net Banking,Returned,4.0
+ORD0541,2025-01-27,CUST1220,Female,26,Thane,Electronics,Wireless Headphones,1,3366.76,10,3030.08,UPI,Returned,3.5
+ORD0542,2025-02-07,CUST1201,Female,26,Navi Mumbai,Home & Kitchen,Cookware Set,4,2360.53,25,7081.59,Debit Card,Delivered,5.0
+ORD0543,2025-07-13,CUST1235,Female,26,Bhiwandi,Beauty,Sunscreen,3,1382.1,15,3524.35,Cash on Delivery,Delivered,4.0
+ORD0544,2025-05-20,CUST1106,Male,40,Nashik,Electronics,Keyboard,1,9985.8,0,9985.8,Credit Card,Delivered,5.0
+ORD0545,2025-07-15,CUST1297,Male,51,Thane,Electronics,Keyboard,1,11716.42,5,11130.6,Cash on Delivery,Delivered,3.0
+ORD0546,2025-02-13,CUST1271,Female,18,Bhiwandi,Clothing,Jeans,3,505.1,20,1212.24,Credit Card,Delivered,4.0
+ORD0547,2025-01-04,CUST1138,Male,18,Navi Mumbai,Clothing,Jacket,3,3301.04,5,9407.96,UPI,Cancelled,
+ORD0548,2025-07-30,CUST1277,Female,30,Bhiwandi,Electronics,Bluetooth Speaker,1,5345.93,0,5345.93,Cash on Delivery,Delivered,4.5
+ORD0549,2025-10-23,CUST1141,Male,29,Bhiwandi,Beauty,Moisturizer,1,2040.32,20,1632.26,,Delivered,3.0
+ORD0550,2025-06-29,CUST1066,Female,26,Nashik,Electronics,Wireless Headphones,1,1388.23,5,1318.82,Debit Card,Delivered,4.5
+ORD0551,2025-02-08,CUST1013,Male,47,Mumbai,Beauty,Moisturizer,1,2066.74,15,1756.73,Net Banking,Delivered,5.0
+ORD0552,2025-02-04,CUST1259,Female,26,Nagpur,Home & Kitchen,Water Bottle,1,4592.47,0,4592.47,Credit Card,Returned,4.5
+ORD0553,2025-11-23,CUST1066,Female,24,Mumbai,Home & Kitchen,Water Bottle,1,2932.66,15,2492.76,Cash on Delivery,Delivered,4.5
+ORD0554,2025-11-22,CUST1091,Female,31,Bhiwandi,Clothing,Jeans,2,1727.75,0,3455.5,Credit Card,Cancelled,
+ORD0555,2025-10-05,CUST1114,Male,33,Nagpur,Beauty,Perfume,2,462.12,0,924.24,Credit Card,Delivered,3.0
+ORD0556,2025-06-25,CUST1300,Female,42,Aurangabad,Home & Kitchen,Water Bottle,1,4357.68,5,4139.8,UPI,Delivered,4.0
+ORD0557,2025-04-02,CUST1181,Male,18,Nagpur,Electronics,Bluetooth Speaker,1,6220.53,25,4665.4,Cash on Delivery,Cancelled,
+ORD0558,2025-02-16,CUST1053,Male,39,Bhiwandi,Home & Kitchen,Bedsheet,2,1715.57,10,3088.03,Net Banking,Delivered,5.0
+ORD0559,2025-06-28,CUST1039,Female,21,Bhiwandi,Beauty,Shampoo,1,2429.83,10,2186.85,Debit Card,Cancelled,
+ORD0560,2025-01-21,CUST1039,Male,40,Bhiwandi,Books,Web Development,1,1413.34,25,1060.0,Credit Card,Delivered,
+ORD0561,2025-10-08,CUST1043,Female,60,Nashik,Electronics,Bluetooth Speaker,1,8394.77,0,8394.77,Debit Card,Delivered,5.0
+ORD0562,2025-09-22,CUST1258,Female,41,Nashik,Electronics,Smartwatch,2,10038.21,20,16061.14,Net Banking,Delivered,4.5
+ORD0563,2025-07-08,CUST1230,Male,27,Nashik,Beauty,Shampoo,3,916.8,20,2200.32,Credit Card,Returned,3.5
+ORD0564,2025-12-17,CUST1013,Female,18,Navi Mumbai,Clothing,Jacket,2,628.09,10,1130.56,Debit Card,Delivered,5.0
+ORD0565,2025-04-27,CUST1199,Female,42,Bhiwandi,Electronics,Bluetooth Speaker,1,9980.23,25,7485.17,Net Banking,Delivered,3.0
+ORD0566,2025-09-06,CUST1093,Female,28,Mumbai,Electronics,Power Bank,2,9288.39,5,17647.94,Credit Card,Returned,5.0
+ORD0567,2025-06-15,CUST1159,Female,32,Nagpur,Books,R Programming,3,485.29,20,1164.7,UPI,Cancelled,
+ORD0568,2025-11-01,CUST1220,Female,24,Aurangabad,Home & Kitchen,Mixer Grinder,2,3062.46,5,5818.67,Net Banking,Cancelled,
+ORD0569,2025-05-09,CUST1087,Female,34,Pune,Home & Kitchen,Coffee Mug,1,1891.91,5,1797.31,Cash on Delivery,Cancelled,
+ORD0570,2025-03-07,CUST1082,Male,22,Pune,Clothing,Hoodie,2,2901.12,5,5512.13,Cash on Delivery,Returned,4.5
+ORD0571,2025-08-25,CUST1105,Male,30,Thane,Home & Kitchen,Cookware Set,2,4284.09,0,8568.18,Debit Card,Cancelled,
+ORD0572,2025-01-24,CUST1028,Female,27,Navi Mumbai,Electronics,Keyboard,2,1243.29,0,2486.58,Debit Card,Delivered,4.0
+ORD0573,2025-03-16,CUST1103,Male,25,Pune,Home & Kitchen,Mixer Grinder,1,1883.73,5,1789.54,Credit Card,Delivered,4.5
+ORD0574,2025-12-23,CUST1176,Male,18,Pune,Home & Kitchen,Bedsheet,2,2397.46,0,4794.92,UPI,Delivered,3.0
+ORD0575,2025-04-22,CUST1286,Female,31,Nashik,Home & Kitchen,Cookware Set,2,2819.21,15,4792.66,UPI,Delivered,4.0
+ORD0576,2025-04-19,CUST1181,Female,18,Nashik,Home & Kitchen,Coffee Mug,2,2663.65,10,4794.57,Cash on Delivery,Returned,4.0
+ORD0577,2025-02-16,CUST1039,Male,50,Bhiwandi,Beauty,Sunscreen,1,579.35,5,550.38,Credit Card,Delivered,5.0
+ORD0578,2025-01-02,CUST1244,Female,35,Bhiwandi,Clothing,Kurta,1,2122.39,25,1591.79,Debit Card,Delivered,4.5
+ORD0579,2025-08-17,CUST1082,Female,29,Nashik,Home & Kitchen,Coffee Mug,4,3496.06,10,12585.82,Cash on Delivery,Delivered,4.0
+ORD0580,2025-06-20,CUST1069,Male,32,Pune,Clothing,Kurta,1,1293.19,5,1228.53,UPI,Delivered,3.5
+ORD0581,2025-05-23,CUST1120,Female,33,Nagpur,Home & Kitchen,Cookware Set,1,522.97,25,392.23,Net Banking,Returned,3.0
+ORD0582,2025-04-24,CUST1062,Female,38,Navi Mumbai,Clothing,Jeans,2,767.51,10,1381.52,Net Banking,Returned,4.0
+ORD0583,2025-01-08,CUST1300,Female,48,Nashik,Home & Kitchen,Coffee Mug,1,1494.22,0,1494.22,Net Banking,Delivered,4.5
+ORD0584,2025-04-24,CUST1204,Male,22,Thane,Electronics,Power Bank,1,11597.19,25,8697.89,Credit Card,Delivered,5.0
+ORD0585,2025-10-27,CUST1163,Male,19,Aurangabad,Clothing,T-Shirt,3,1395.12,10,3766.82,UPI,Cancelled,
+ORD0586,2025-11-29,CUST1110,Male,49,Pune,Electronics,Wireless Headphones,4,8134.83,15,27658.42,Credit Card,Delivered,3.5
+ORD0587,2025-11-19,CUST1003,Female,20,Mumbai,Home & Kitchen,Bedsheet,1,1931.87,20,1545.5,Net Banking,Returned,5.0
+ORD0588,2025-01-11,CUST1146,Male,31,Nashik,Clothing,Kurta,1,2205.33,15,1874.53,Cash on Delivery,Delivered,4.0
+ORD0589,2025-11-25,CUST1115,Female,22,Navi Mumbai,Electronics,Power Bank,1,3372.17,10,3034.95,UPI,Delivered,3.0
+ORD0590,2025-07-09,CUST1083,Female,42,Pune,Home & Kitchen,Bedsheet,1,3859.33,10,3473.4,Credit Card,Delivered,4.0
+ORD0591,2025-03-13,CUST1133,Female,22,Nashik,Books,R Programming,1,1147.59,20,918.07,Net Banking,Delivered,4.0
+ORD0592,2025-04-17,CUST1279,Male,38,Thane,Books,Data Science Basics,4,997.04,20,3190.53,,Delivered,3.0
+ORD0593,2025-05-14,CUST1046,Female,18,Bhiwandi,Electronics,Smartwatch,4,4753.79,0,19015.16,Credit Card,Returned,3.5
+ORD0594,2025-07-05,CUST1070,Female,18,Bhiwandi,Home & Kitchen,Bedsheet,2,3652.64,5,6940.02,Credit Card,Delivered,5.0
+ORD0595,2025-07-02,CUST1251,Male,30,Aurangabad,Home & Kitchen,Bedsheet,1,3258.01,5,3095.11,Cash on Delivery,Delivered,4.5
+ORD0596,2025-05-11,CUST1120,Male,38,Bhiwandi,Clothing,Hoodie,1,3287.46,5,3123.09,UPI,Delivered,5.0
+ORD0597,2025-05-09,CUST1091,Female,18,Aurangabad,Home & Kitchen,Coffee Mug,2,4836.02,15,8221.23,Net Banking,Returned,4.0
+ORD0598,2025-12-22,CUST1139,Male,38,Pune,Beauty,Sunscreen,2,1371.06,20,2193.7,Net Banking,Delivered,5.0
+ORD0599,2025-06-01,CUST1215,Female,23,Bhiwandi,Electronics,Keyboard,1,3036.81,10,2733.13,Debit Card,Delivered,3.5
+ORD0600,2025-11-19,CUST1294,Male,28,Nagpur,Clothing,Hoodie,3,810.93,0,2432.79,UPI,Delivered,4.5
